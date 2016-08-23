@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorpane" maxHeight="400.0" maxWidth="900.0" minHeight="400.0" minWidth="900.0" prefHeight="400.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dataprojektgui.FXMLDocumentController">
+   <children>
+      <Slider fx:id="base" blockIncrement="1.0" layoutX="25.0" layoutY="59.0" majorTickUnit="5.0" max="15.0" maxHeight="100000.0" maxWidth="10000.0" min="-15.0" minorTickCount="4" orientation="VERTICAL" prefHeight="300.0" showTickLabels="true" showTickMarks="true" />
+      <Slider fx:id="middle" layoutX="71.0" layoutY="59.0" majorTickUnit="5.0" max="15.0" maxHeight="100000.0" maxWidth="10000.0" min="-15.0" minorTickCount="4" orientation="VERTICAL" prefHeight="300.0" showTickLabels="true" showTickMarks="true" />
+      <Slider fx:id="treble" layoutX="119.0" layoutY="59.0" majorTickUnit="5.0" max="15.0" maxHeight="10000.0" maxWidth="10000.0" min="-15.0" minorTickCount="4" orientation="VERTICAL" prefHeight="300.0" showTickLabels="true" showTickMarks="true" />
+      <CheckBox fx:id="echo" layoutX="361.0" layoutY="57.0" mnemonicParsing="false" onAction="#echoToggle" text="Echo" />
+      <CheckBox fx:id="mute" layoutX="794.0" layoutY="365.0" mnemonicParsing="false" text="Mute" />
+      <Button fx:id="Button" layoutX="794.0" layoutY="328.0" mnemonicParsing="false" onAction="#applyButtonPress" text="Apply" />
+      <TextField fx:id="delay" disable="true" layoutX="366.0" layoutY="179.0" prefWidth="110.0" promptText="Delay (ms)">
+         <tooltip>
+            <Tooltip text="Empty Tooltip" />
+         </tooltip>
+         <tooltip>
+            <Tooltip text="Empty Tooltip" />
+         </tooltip>
+         <tooltip>
+            <Tooltip text="Set the delay for the echo. \n lol" />
+         </tooltip>
+         <tooltip>
+            <Tooltip text="Set the delay of the echo. Max value is 850ms." />
+         </tooltip></TextField>
+      <Label layoutX="25.0" layoutY="33.0" text="Bass" />
+      <Label layoutX="71.0" layoutY="33.0" text="Mid" />
+      <Label layoutX="117.0" layoutY="33.0" text="Treble" />
+      <ChoiceBox fx:id="list" layoutX="644.0" layoutY="195.0" prefWidth="150.0" />
+      <Button fx:id="refresh" layoutX="644.0" layoutY="233.0" mnemonicParsing="false" onAction="#refreshList" text="Refresh" />
+      <ImageView fitHeight="136.0" fitWidth="135.0" layoutX="758.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="256.0" AnchorPane.leftAnchor="758.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="9.0">
+         <image>
+            <Image url="@datalogo.png" />
+         </image>
+      </ImageView>
+      <CheckBox fx:id="inputBased" disable="true" layoutX="361.0" layoutY="87.0" mnemonicParsing="false" onAction="#echoInputBased" selected="true" text="Input based" />
+      <CheckBox fx:id="outputBased" disable="true" layoutX="476.0" layoutY="87.0" mnemonicParsing="false" onAction="#echoOutputBased" text="Output based" />
+      <TextField fx:id="baseLimit" layoutX="183.0" layoutY="82.0" prefHeight="25.0" prefWidth="125.0" promptText="150 (Hz)">
+         <tooltip>
+            <Tooltip text="Bass goes from 20Hz to Upper limit (Hz)" />
+         </tooltip>
+      </TextField>
+      <TextField fx:id="trebleLimit" layoutX="184.0" layoutY="137.0" prefHeight="25.0" prefWidth="125.0" promptText="1500 (Hz)">
+         <tooltip>
+            <Tooltip text="Treble goes from Lower limit(Hz) to 24,000 Hz" />
+         </tooltip>
+      </TextField>
+      <Label layoutX="182.0" layoutY="33.0" text="Bandwidth for:" />
+      <Label layoutX="184.0" layoutY="59.0" text="Bass (Enter upper limit)">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="180.0" layoutY="116.0" text="Treble (Enter lower limit)">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+      <Slider fx:id="echoDecay" blockIncrement="0.1" disable="true" layoutX="514.0" layoutY="140.0" majorTickUnit="0.3" max="0.9" minorTickCount="2" orientation="VERTICAL" showTickLabels="true" showTickMarks="true" />
+      <Label fx:id="echoLabel" disable="true" layoutX="485.0" layoutY="114.0" text="Echo volume" />
+      <Label layoutX="646.0" layoutY="169.0" text="COM Port" />
+      <Label fx:id="delayLabel" disable="true" layoutX="366.0" layoutY="160.0" text="Echo delay (ms)">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

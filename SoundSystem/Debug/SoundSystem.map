@@ -1,0 +1,2330 @@
+Archive member included because of file (symbol)
+
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+                              ./Debug/src_filter.o (cos)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+                              ./Debug/src_filter.o (tan)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+                              ./Debug/src_filter.o (pow)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o) (__ieee754_rem_pio2)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o) (__kernel_cos)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o) (__kernel_rem_pio2)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o) (__kernel_sin)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o) (__kernel_tan)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o) (fabs)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (finite)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o) (floor)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (__fpclassifyd)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (__fdlib_version)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (matherr)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o) (nan)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (rint)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o) (scalbn)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o) (copysign)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                              ./Debug/src_filter.o (__aeabi_dsub)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                              ./Debug/src_filter.o (__aeabi_dmul)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (__aeabi_dcmpeq)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o) (__aeabi_d2iz)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                              ./Debug/src_main.o (__aeabi_d2f)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                              ./Debug/src_filter.o (__aeabi_fsub)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                              ./Debug/src_echo.o (__aeabi_fmul)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                              ./Debug/src_filter.o (__aeabi_fcmplt)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+                              ./Debug/src_echo.o (__aeabi_f2uiz)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o) (__errno)
+c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o) (_impure_ptr)
+
+Allocating common symbols
+Common symbol       size              file
+
+EqValues            0xe               ./Debug/src_main.o
+NVIC_InitStructure  0x4               ./Debug/src_NVIC.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00030000         xrw
+SRAM             0x10000000         0x00010000         xrw
+CONFIG           0x1fffc000         0x00000010         r
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./Debug/src_main.o
+LOAD ./Debug/src_stm32f4xx_gpio.o
+LOAD ./Debug/src_stm32f4xx_rcc.o
+LOAD ./Debug/src_system_stm32f4xx_Discovery.o
+LOAD ./Debug/src_ADC.o
+LOAD ./Debug/src_analogToDigital.o
+LOAD ./Debug/src_DAC.o
+LOAD ./Debug/src_digitalToAnalog.o
+LOAD ./Debug/src_GPIO.o
+LOAD ./Debug/src_interruptController.o
+LOAD ./Debug/src_NVIC.o
+LOAD ./Debug/src_RCC.o
+LOAD ./Debug/src_serialCommunication.o
+LOAD ./Debug/src_stm32f4xx_adc.o
+LOAD ./Debug/src_stm32f4xx_dac.o
+LOAD ./Debug/src_stm32f4xx_tim.o
+LOAD ./Debug/src_stm32f4xx_usart.o
+LOAD ./Debug/src_TIM.o
+LOAD ./Debug/src_timer.o
+LOAD ./Debug/src_USART.o
+LOAD ./Debug/src_misc.o
+LOAD ./Debug/src_echo.o
+LOAD ./Debug/src_filter.o
+LOAD ./Debug/src_controlBus.o
+LOAD ./Debug/src_externalDAC.o
+LOAD ./Debug/src_soundBus.o
+LOAD ./Debug/src_stm32f4xx_i2c.o
+LOAD ./Debug/src_stm32f4xx_spi.o
+LOAD ./Debug/src_GUIInterface.o
+LOAD ./Debug/resources_startup_stm32f40xx.o
+LOAD c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a
+START GROUP
+LOAD c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a
+LOAD c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+                0x2001c000                _estack = 0x2001c000
+                0x0001a000                _Minimum_Heap_Size = 0x1a000
+                0x00000400                _Minimum_Stack_Size = 0x400
+
+.vector         0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 ./Debug/resources_startup_stm32f40xx.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0xb6d0
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188      0x178 ./Debug/src_main.o
+                0x08000188                USART6_IRQHandler
+                0x080001a8                TIM2_IRQHandler
+                0x08000274                main
+                0x08000280                initSystem
+                0x080002d0                initPeriphClocks
+ .text          0x08000300      0x4cc ./Debug/src_stm32f4xx_gpio.o
+                0x08000300                GPIO_DeInit
+                0x08000464                GPIO_Init
+                0x08000580                GPIO_StructInit
+                0x080005b4                GPIO_PinLockConfig
+                0x080005f8                GPIO_ReadInputDataBit
+                0x0800062c                GPIO_ReadInputData
+                0x08000648                GPIO_ReadOutputDataBit
+                0x0800067c                GPIO_ReadOutputData
+                0x08000698                GPIO_SetBits
+                0x080006b4                GPIO_ResetBits
+                0x080006d0                GPIO_WriteBit
+                0x08000700                GPIO_Write
+                0x0800071c                GPIO_ToggleBits
+                0x08000740                GPIO_PinAFConfig
+ .text          0x080007cc      0xc38 ./Debug/src_stm32f4xx_rcc.o
+                0x080007cc                RCC_DeInit
+                0x0800083c                RCC_HSEConfig
+                0x08000860                RCC_WaitForHSEStartUp
+                0x080008b0                RCC_AdjustHSICalibrationValue
+                0x080008ec                RCC_HSICmd
+                0x0800090c                RCC_LSEConfig
+                0x0800094c                RCC_LSICmd
+                0x0800096c                RCC_PLLConfig
+                0x080009a8                RCC_PLLCmd
+                0x080009c8                RCC_PLLI2SConfig
+                0x080009f0                RCC_PLLI2SCmd
+                0x08000a10                RCC_PLLSAIConfig
+                0x08000a40                RCC_PLLSAICmd
+                0x08000a60                RCC_ClockSecuritySystemCmd
+                0x08000a80                RCC_MCO1Config
+                0x08000abc                RCC_MCO2Config
+                0x08000af8                RCC_SYSCLKConfig
+                0x08000b30                RCC_GetSYSCLKSource
+                0x08000b50                RCC_HCLKConfig
+                0x08000b88                RCC_PCLK1Config
+                0x08000bc0                RCC_PCLK2Config
+                0x08000bf8                RCC_GetClocksFreq
+                0x08000d4c                RCC_RTCCLKConfig
+                0x08000da8                RCC_RTCCLKCmd
+                0x08000dc8                RCC_BackupResetCmd
+                0x08000de8                RCC_I2SCLKConfig
+                0x08000e04                RCC_SAIPLLI2SClkDivConfig
+                0x08000e40                RCC_SAIPLLSAIClkDivConfig
+                0x08000e80                RCC_SAIBlockACLKConfig
+                0x08000ebc                RCC_SAIBlockBCLKConfig
+                0x08000ef8                RCC_LTDCCLKDivConfig
+                0x08000f34                RCC_TIMCLKPresConfig
+                0x08000f50                RCC_AHB1PeriphClockCmd
+                0x08000f8c                RCC_AHB2PeriphClockCmd
+                0x08000fc8                RCC_AHB3PeriphClockCmd
+                0x08001004                RCC_APB1PeriphClockCmd
+                0x08001040                RCC_APB2PeriphClockCmd
+                0x0800107c                RCC_AHB1PeriphResetCmd
+                0x080010b8                RCC_AHB2PeriphResetCmd
+                0x080010f4                RCC_AHB3PeriphResetCmd
+                0x08001130                RCC_APB1PeriphResetCmd
+                0x0800116c                RCC_APB2PeriphResetCmd
+                0x080011a8                RCC_AHB1PeriphClockLPModeCmd
+                0x080011e4                RCC_AHB2PeriphClockLPModeCmd
+                0x08001220                RCC_AHB3PeriphClockLPModeCmd
+                0x0800125c                RCC_APB1PeriphClockLPModeCmd
+                0x08001298                RCC_APB2PeriphClockLPModeCmd
+                0x080012d4                RCC_ITConfig
+                0x0800131c                RCC_GetFlagStatus
+                0x08001390                RCC_ClearFlag
+                0x080013ac                RCC_GetITStatus
+                0x080013e4                RCC_ClearITPendingBit
+ .text          0x08001404      0x244 ./Debug/src_system_stm32f4xx_Discovery.o
+                0x08001404                SystemInit
+                0x0800145c                SystemCoreClockUpdate
+ .text          0x08001648       0x7c ./Debug/src_ADC.o
+                0x08001648                initCommon_ADC
+                0x08001678                init_ADC
+ .text          0x080016c4       0xa0 ./Debug/src_analogToDigital.o
+                0x080016c4                enable_ADC1
+                0x08001738                ADC1_startConversion
+ .text          0x08001764       0x88 ./Debug/src_DAC.o
+                0x08001764                init_DAC
+                0x080017bc                DAC_SetChannelData
+ .text          0x080017ec       0x58 ./Debug/src_digitalToAnalog.o
+                0x080017ec                enable_DAC
+ .text          0x08001844       0x40 ./Debug/src_GPIO.o
+                0x08001844                init_GPIO
+ .text          0x08001884       0x3c ./Debug/src_interruptController.o
+                0x08001884                enable_Interrupts
+ .text          0x080018c0       0x38 ./Debug/src_NVIC.o
+                0x080018c0                init_IRQ_Channel
+ .text          0x080018f8      0x48c ./Debug/src_RCC.o
+                0x080018f8                RCC_PeriphClockCmd
+ .text          0x08001d84      0x2b0 ./Debug/src_serialCommunication.o
+                0x08001d84                enable_USART6
+                0x08001e1c                readFromPort
+                0x08001f5c                writeToPort
+                0x08001fec                readGUIValue
+                0x08002010                prototypeFun
+ .text          0x08002034      0xa68 ./Debug/src_stm32f4xx_adc.o
+                0x08002034                ADC_DeInit
+                0x08002050                ADC_Init
+                0x080020f8                ADC_StructInit
+                0x08002134                ADC_CommonInit
+                0x08002184                ADC_CommonStructInit
+                0x080021b0                ADC_Cmd
+                0x080021e8                ADC_AnalogWatchdogCmd
+                0x08002220                ADC_AnalogWatchdogThresholdsConfig
+                0x08002248                ADC_AnalogWatchdogSingleChannelConfig
+                0x08002280                ADC_TempSensorVrefintCmd
+                0x080022b8                ADC_VBATCmd
+                0x080022f0                ADC_RegularChannelConfig
+                0x08002478                ADC_SoftwareStartConv
+                0x08002498                ADC_GetSoftwareStartConvStatus
+                0x080024c8                ADC_EOCOnEachRegularChannelCmd
+                0x08002500                ADC_ContinuousModeCmd
+                0x08002538                ADC_DiscModeChannelCountConfig
+                0x0800257c                ADC_DiscModeCmd
+                0x080025b4                ADC_GetConversionValue
+                0x080025d0                ADC_GetMultiModeConversionValue
+                0x080025e8                ADC_DMACmd
+                0x08002620                ADC_DMARequestAfterLastTransferCmd
+                0x08002658                ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x08002690                ADC_InjectedChannelConfig
+                0x080027a4                ADC_InjectedSequencerLengthConfig
+                0x080027e8                ADC_SetInjectedOffset
+                0x08002818                ADC_ExternalTrigInjectedConvConfig
+                0x0800284c                ADC_ExternalTrigInjectedConvEdgeConfig
+                0x08002880                ADC_SoftwareStartInjectedConv
+                0x080028a0                ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x080028d0                ADC_AutoInjectedConvCmd
+                0x08002908                ADC_InjectedDiscModeCmd
+                0x08002940                ADC_GetInjectedConversionValue
+                0x08002970                ADC_ITConfig
+                0x080029c0                ADC_GetFlagStatus
+                0x080029f4                ADC_ClearFlag
+                0x08002a14                ADC_GetITStatus
+                0x08002a70                ADC_ClearITPendingBit
+ .text          0x08002a9c      0x42c ./Debug/src_stm32f4xx_dac.o
+                0x08002a9c                DAC_DeInit
+                0x08002ab8                DAC_Init
+                0x08002b1c                DAC_StructInit
+                0x08002b48                DAC_Cmd
+                0x08002b90                DAC_SoftwareTriggerCmd
+                0x08002bdc                DAC_DualSoftwareTriggerCmd
+                0x08002c14                DAC_WaveGenerationCmd
+                0x08002c60                DAC_SetChannel1Data
+                0x08002c94                DAC_SetChannel2Data
+                0x08002cc8                DAC_SetDualChannelData
+                0x08002d20                DAC_GetDataOutputValue
+                0x08002d54                DAC_DMACmd
+                0x08002da0                DAC_ITConfig
+                0x08002dec                DAC_GetFlagStatus
+                0x08002e28                DAC_ClearFlag
+                0x08002e4c                DAC_GetITStatus
+                0x08002ea4                DAC_ClearITPendingBit
+ .text          0x08002ec8     0x1b80 ./Debug/src_stm32f4xx_tim.o
+                0x08002ec8                TIM_DeInit
+                0x08003084                TIM_TimeBaseInit
+                0x08003158                TIM_TimeBaseStructInit
+                0x0800318c                TIM_PrescalerConfig
+                0x080031b4                TIM_CounterModeConfig
+                0x080031ec                TIM_SetCounter
+                0x08003208                TIM_SetAutoreload
+                0x08003224                TIM_GetCounter
+                0x0800323c                TIM_GetPrescaler
+                0x08003258                TIM_UpdateDisableConfig
+                0x08003298                TIM_UpdateRequestConfig
+                0x080032d8                TIM_ARRPreloadConfig
+                0x08003318                TIM_SelectOnePulseMode
+                0x08003350                TIM_SetClockDivision
+                0x08003388                TIM_Cmd
+                0x080033c8                TIM_OC1Init
+                0x080034bc                TIM_OC2Init
+                0x080035cc                TIM_OC3Init
+                0x080036d8                TIM_OC4Init
+                0x080037a4                TIM_OCStructInit
+                0x080037e8                TIM_SelectOCxM
+                0x08003894                TIM_SetCompare1
+                0x080038b0                TIM_SetCompare2
+                0x080038cc                TIM_SetCompare3
+                0x080038e8                TIM_SetCompare4
+                0x08003904                TIM_ForcedOC1Config
+                0x0800393c                TIM_ForcedOC2Config
+                0x08003978                TIM_ForcedOC3Config
+                0x080039b0                TIM_ForcedOC4Config
+                0x080039ec                TIM_OC1PreloadConfig
+                0x08003a24                TIM_OC2PreloadConfig
+                0x08003a60                TIM_OC3PreloadConfig
+                0x08003a98                TIM_OC4PreloadConfig
+                0x08003ad4                TIM_OC1FastConfig
+                0x08003b0c                TIM_OC2FastConfig
+                0x08003b48                TIM_OC3FastConfig
+                0x08003b80                TIM_OC4FastConfig
+                0x08003bbc                TIM_ClearOC1Ref
+                0x08003bf4                TIM_ClearOC2Ref
+                0x08003c30                TIM_ClearOC3Ref
+                0x08003c68                TIM_ClearOC4Ref
+                0x08003ca4                TIM_OC1PolarityConfig
+                0x08003cdc                TIM_OC1NPolarityConfig
+                0x08003d14                TIM_OC2PolarityConfig
+                0x08003d50                TIM_OC2NPolarityConfig
+                0x08003d8c                TIM_OC3PolarityConfig
+                0x08003dc8                TIM_OC3NPolarityConfig
+                0x08003e04                TIM_OC4PolarityConfig
+                0x08003e40                TIM_CCxCmd
+                0x08003e94                TIM_CCxNCmd
+                0x08003ee8                TIM_ICInit
+                0x08003f90                TIM_ICStructInit
+                0x08003fc0                TIM_PWMIConfig
+                0x08004078                TIM_GetCapture1
+                0x08004090                TIM_GetCapture2
+                0x080040a8                TIM_GetCapture3
+                0x080040c0                TIM_GetCapture4
+                0x080040d8                TIM_SetIC1Prescaler
+                0x08004110                TIM_SetIC2Prescaler
+                0x0800414c                TIM_SetIC3Prescaler
+                0x08004184                TIM_SetIC4Prescaler
+                0x080041c0                TIM_BDTRConfig
+                0x08004210                TIM_BDTRStructInit
+                0x0800424c                TIM_CtrlPWMOutputs
+                0x08004298                TIM_SelectCOM
+                0x080042d8                TIM_CCPreloadControl
+                0x08004318                TIM_ITConfig
+                0x08004360                TIM_GenerateEvent
+                0x0800437c                TIM_GetFlagStatus
+                0x080043b4                TIM_ClearFlag
+                0x080043d4                TIM_GetITStatus
+                0x08004428                TIM_ClearITPendingBit
+                0x08004448                TIM_DMAConfig
+                0x08004470                TIM_DMACmd
+                0x080044b8                TIM_SelectCCDMA
+                0x080044f8                TIM_InternalClockConfig
+                0x0800451c                TIM_ITRxExternalClockConfig
+                0x08004548                TIM_TIxExternalClockConfig
+                0x0800459c                TIM_ETRClockMode1Config
+                0x080045ec                TIM_ETRClockMode2Config
+                0x0800461c                TIM_SelectInputTrigger
+                0x08004654                TIM_SelectOutputTrigger
+                0x0800468c                TIM_SelectSlaveMode
+                0x080046c4                TIM_SelectMasterSlaveMode
+                0x080046fc                TIM_ETRConfig
+                0x08004744                TIM_EncoderInterfaceConfig
+                0x080047d0                TIM_SelectHallSensor
+                0x08004810                TIM_RemapConfig
+ .text          0x08004a48      0x958 ./Debug/src_stm32f4xx_usart.o
+                0x08004a48                USART_DeInit
+                0x08004b5c                USART_Init
+                0x08004cd0                USART_StructInit
+                0x08004d08                USART_ClockInit
+                0x08004d5c                USART_ClockStructInit
+                0x08004d88                USART_Cmd
+                0x08004dc8                USART_SetPrescaler
+                0x08004e00                USART_OverSampling8Cmd
+                0x08004e44                USART_OneBitMethodCmd
+                0x08004e84                USART_SendData
+                0x08004ea8                USART_ReceiveData
+                0x08004ec8                USART_SetAddress
+                0x08004f00                USART_ReceiverWakeUpCmd
+                0x08004f40                USART_WakeUpConfig
+                0x08004f78                USART_LINBreakDetectLengthConfig
+                0x08004fb0                USART_LINCmd
+                0x08004ff0                USART_SendBreak
+                0x08005014                USART_HalfDuplexCmd
+                0x08005054                USART_SetGuardTime
+                0x08005090                USART_SmartCardCmd
+                0x080050d0                USART_SmartCardNACKCmd
+                0x08005110                USART_IrDAConfig
+                0x08005148                USART_IrDACmd
+                0x08005188                USART_DMACmd
+                0x080051d0                USART_ITConfig
+                0x08005260                USART_GetFlagStatus
+                0x08005298                USART_ClearFlag
+                0x080052b8                USART_GetITStatus
+                0x08005368                USART_ClearITPendingBit
+ .text          0x080053a0      0x414 ./Debug/src_TIM.o
+                0x080053a0                init_TIM_TimeBase
+                0x080053e0                init_TIM_OC
+                0x08005480                init_TIM_IC
+                0x080054c0                init_TIM_BDTR
+                0x08005508                TIM_OCPreloadConfig
+                0x08005570                TIM_OCFastConfig
+                0x080055d8                TIM_ForcedOCConfig
+                0x08005640                TIM_ClearOCRef
+                0x080056a8                TIM_OCPolarityConfig
+                0x08005758                TIM_ICSetCompare
+ .text          0x080057b4       0x38 ./Debug/src_timer.o
+                0x080057b4                enable_TIM2
+ .text          0x080057ec       0xb4 ./Debug/src_USART.o
+                0x080057ec                init_SCI
+                0x08005848                write_SCI
+                0x08005874                read_SCI
+ .text          0x080058a0      0x184 ./Debug/src_misc.o
+                0x080058a0                NVIC_PriorityGroupConfig
+                0x080058c4                NVIC_Init
+                0x08005980                NVIC_SetVectorTable
+                0x080059ac                NVIC_SystemLPConfig
+                0x080059ec                SysTick_CLKSourceConfig
+ .text          0x08005a24       0xe4 ./Debug/src_echo.o
+                0x08005a24                echoEffect
+ .text          0x08005b08      0xb58 ./Debug/src_filter.o
+                0x080065a4                setEqualizer
+                0x080065d4                equalize
+ .text          0x08006660      0x144 ./Debug/src_controlBus.o
+                0x08006660                enable_I2C
+                0x080066a8                enable_I2CPins
+                0x080066ec                send_codec_ctrl
+ .text          0x080067a4       0x88 ./Debug/src_externalDAC.o
+                0x080067a4                enable_externalDAC
+                0x080067c0                init_RESETPin
+                0x080067f0                codec_ctrl_init
+ .text          0x0800682c       0xb0 ./Debug/src_soundBus.o
+                0x0800682c                enable_I2S
+                0x08006870                enable_I2Spins
+ .text          0x080068dc      0xa08 ./Debug/src_stm32f4xx_i2c.o
+                0x080068dc                I2C_DeInit
+                0x08006950                I2C_Init
+                0x08006ad4                I2C_StructInit
+                0x08006b10                I2C_Cmd
+                0x08006b50                I2C_AnalogFilterCmd
+                0x08006b90                I2C_DigitalFilterConfig
+                0x08006bd0                I2C_GenerateSTART
+                0x08006c10                I2C_GenerateSTOP
+                0x08006c50                I2C_Send7bitAddress
+                0x08006c8c                I2C_AcknowledgeConfig
+                0x08006ccc                I2C_OwnAddress2Config
+                0x08006d0c                I2C_DualAddressCmd
+                0x08006d4c                I2C_GeneralCallCmd
+                0x08006d8c                I2C_SoftwareResetCmd
+                0x08006dd0                I2C_StretchClockCmd
+                0x08006e10                I2C_FastModeDutyCycleConfig
+                0x08006e50                I2C_NACKPositionConfig
+                0x08006e90                I2C_SMBusAlertConfig
+                0x08006ed0                I2C_ARPCmd
+                0x08006f10                I2C_SendData
+                0x08006f30                I2C_ReceiveData
+                0x08006f4c                I2C_TransmitPEC
+                0x08006f8c                I2C_PECPositionConfig
+                0x08006fcc                I2C_CalculatePEC
+                0x0800700c                I2C_GetPEC
+                0x0800702c                I2C_DMACmd
+                0x0800706c                I2C_DMALastTransferCmd
+                0x080070ac                I2C_ReadRegister
+                0x080070dc                I2C_ITConfig
+                0x08007124                I2C_CheckEvent
+                0x08007184                I2C_GetLastEvent
+                0x080071c8                I2C_GetFlagStatus
+                0x08007230                I2C_ClearFlag
+                0x0800725c                I2C_GetITStatus
+                0x080072b8                I2C_ClearITPendingBit
+ .text          0x080072e4      0x880 ./Debug/src_stm32f4xx_spi.o
+                0x080072e4                SPI_I2S_DeInit
+                0x080073bc                SPI_Init
+                0x08007444                I2S_Init
+                0x080075f4                SPI_StructInit
+                0x0800763c                I2S_StructInit
+                0x08007674                SPI_Cmd
+                0x080076b4                I2S_Cmd
+                0x080076f4                SPI_DataSizeConfig
+                0x0800772c                SPI_BiDirectionalLineConfig
+                0x0800776c                SPI_NSSInternalSoftwareConfig
+                0x080077b0                SPI_SSOutputCmd
+                0x080077f0                SPI_TIModeCmd
+                0x08007830                I2S_FullDuplexConfig
+                0x080078cc                SPI_I2S_ReceiveData
+                0x080078e8                SPI_I2S_SendData
+                0x08007904                SPI_CalculateCRC
+                0x08007944                SPI_TransmitCRC
+                0x08007968                SPI_GetCRC
+                0x0800799c                SPI_GetCRCPolynomial
+                0x080079b8                SPI_I2S_DMACmd
+                0x08007a00                SPI_I2S_ITConfig
+                0x08007a60                SPI_I2S_GetFlagStatus
+                0x08007a98                SPI_I2S_ClearFlag
+                0x08007ab8                SPI_I2S_GetITStatus
+                0x08007b30                SPI_I2S_ClearITPendingBit
+ *fill*         0x08007b64        0x4 
+ .text          0x08007b68      0x1f0 ./Debug/src_GUIInterface.o
+                0x08007b68                getBase
+                0x08007bb4                getMiddle
+                0x08007bfc                getTreble
+                0x08007c44                getBaseUpperLimit
+                0x08007c5c                getMiddleLowerLimit
+                0x08007c74                getMiddleUpperLimit
+                0x08007c8c                getTrebleLowerLimit
+                0x08007ca4                isMuted
+                0x08007ccc                isEchoEnabled
+                0x08007cf4                isInputBased
+                0x08007d1c                getEchoDelay
+                0x08007d3c                getEchoDecay
+ .text          0x08007d58       0x14 ./Debug/resources_startup_stm32f40xx.o
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+ .text          0x08007d6c        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+ .text          0x08007d6c      0x370 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x08007d6c                __aeabi_drsub
+                0x08007d74                __aeabi_dsub
+                0x08007d74                __subdf3
+                0x08007d78                __aeabi_dadd
+                0x08007d78                __adddf3
+                0x08007ff0                __floatunsidf
+                0x08007ff0                __aeabi_ui2d
+                0x08008010                __floatsidf
+                0x08008010                __aeabi_i2d
+                0x08008034                __aeabi_f2d
+                0x08008034                __extendsfdf2
+                0x08008070                __floatundidf
+                0x08008070                __aeabi_ul2d
+                0x08008080                __floatdidf
+                0x08008080                __aeabi_l2d
+ .text          0x080080dc      0x424 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x080080dc                __aeabi_dmul
+                0x080080dc                __muldf3
+                0x08008330                __divdf3
+                0x08008330                __aeabi_ddiv
+ .text          0x08008500      0x110 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                0x08008500                __gtdf2
+                0x08008500                __gedf2
+                0x08008508                __ltdf2
+                0x08008508                __ledf2
+                0x08008510                __nedf2
+                0x08008510                __eqdf2
+                0x08008510                __cmpdf2
+                0x0800858c                __aeabi_cdrcmple
+                0x0800859c                __aeabi_cdcmpeq
+                0x0800859c                __aeabi_cdcmple
+                0x080085ac                __aeabi_dcmpeq
+                0x080085c0                __aeabi_dcmplt
+                0x080085d4                __aeabi_dcmple
+                0x080085e8                __aeabi_dcmpge
+                0x080085fc                __aeabi_dcmpgt
+ .text          0x08008610       0x50 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+                0x08008610                __aeabi_d2iz
+                0x08008610                __fixdfsi
+ .text          0x08008660       0xa0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                0x08008660                __truncdfsf2
+                0x08008660                __aeabi_d2f
+ .text          0x08008700      0x21c c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                0x08008700                __aeabi_frsub
+                0x08008708                __subsf3
+                0x08008708                __aeabi_fsub
+                0x0800870c                __aeabi_fadd
+                0x0800870c                __addsf3
+                0x0800886c                __aeabi_ui2f
+                0x0800886c                __floatunsisf
+                0x08008874                __aeabi_i2f
+                0x08008874                __floatsisf
+                0x08008890                __aeabi_ul2f
+                0x08008890                __floatundisf
+                0x080088a0                __aeabi_l2f
+                0x080088a0                __floatdisf
+ .text          0x0800891c      0x2a0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                0x0800891c                __mulsf3
+                0x0800891c                __aeabi_fmul
+                0x08008a84                __aeabi_fdiv
+                0x08008a84                __divsf3
+ .text          0x08008bbc       0xec c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                0x08008bbc                __gesf2
+                0x08008bbc                __gtsf2
+                0x08008bc4                __lesf2
+                0x08008bc4                __ltsf2
+                0x08008bcc                __nesf2
+                0x08008bcc                __eqsf2
+                0x08008bcc                __cmpsf2
+                0x08008c2c                __aeabi_cfrcmple
+                0x08008c34                __aeabi_cfcmpeq
+                0x08008c34                __aeabi_cfcmple
+                0x08008c44                __aeabi_fcmpeq
+                0x08008c58                __aeabi_fcmplt
+                0x08008c6c                __aeabi_fcmple
+                0x08008c80                __aeabi_fcmpge
+                0x08008c94                __aeabi_fcmpgt
+ .text          0x08008ca8       0x40 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+                0x08008ca8                __fixunssfsi
+                0x08008ca8                __aeabi_f2uiz
+ .text          0x08008ce8        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .text          0x08008ce8        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ *(.text*)
+ .text.Reset_Handler
+                0x08008ce8       0x4c ./Debug/resources_startup_stm32f40xx.o
+                0x08008ce8                Reset_Handler
+ .text.Default_Handler
+                0x08008d34        0x4 ./Debug/resources_startup_stm32f40xx.o
+                0x08008d34                RTC_Alarm_IRQHandler
+                0x08008d34                HASH_RNG_IRQHandler
+                0x08008d34                EXTI2_IRQHandler
+                0x08008d34                TIM8_CC_IRQHandler
+                0x08008d34                DebugMon_Handler
+                0x08008d34                TIM1_CC_IRQHandler
+                0x08008d34                DMA2_Stream5_IRQHandler
+                0x08008d34                HardFault_Handler
+                0x08008d34                DMA1_Stream5_IRQHandler
+                0x08008d34                SysTick_Handler
+                0x08008d34                PVD_IRQHandler
+                0x08008d34                SDIO_IRQHandler
+                0x08008d34                TAMP_STAMP_IRQHandler
+                0x08008d34                PendSV_Handler
+                0x08008d34                NMI_Handler
+                0x08008d34                CAN2_RX1_IRQHandler
+                0x08008d34                EXTI3_IRQHandler
+                0x08008d34                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08008d34                TIM1_UP_TIM10_IRQHandler
+                0x08008d34                TIM8_UP_TIM13_IRQHandler
+                0x08008d34                I2C3_ER_IRQHandler
+                0x08008d34                EXTI0_IRQHandler
+                0x08008d34                I2C2_EV_IRQHandler
+                0x08008d34                DMA1_Stream2_IRQHandler
+                0x08008d34                CAN1_RX0_IRQHandler
+                0x08008d34                FPU_IRQHandler
+                0x08008d34                OTG_HS_WKUP_IRQHandler
+                0x08008d34                UsageFault_Handler
+                0x08008d34                CAN2_SCE_IRQHandler
+                0x08008d34                DMA2_Stream2_IRQHandler
+                0x08008d34                SPI1_IRQHandler
+                0x08008d34                TIM6_DAC_IRQHandler
+                0x08008d34                TIM1_BRK_TIM9_IRQHandler
+                0x08008d34                DCMI_IRQHandler
+                0x08008d34                CAN2_RX0_IRQHandler
+                0x08008d34                DMA2_Stream3_IRQHandler
+                0x08008d34                USART3_IRQHandler
+                0x08008d34                CRYP_IRQHandler
+                0x08008d34                CAN1_RX1_IRQHandler
+                0x08008d34                UART5_IRQHandler
+                0x08008d34                DMA2_Stream0_IRQHandler
+                0x08008d34                TIM4_IRQHandler
+                0x08008d34                I2C1_EV_IRQHandler
+                0x08008d34                DMA1_Stream6_IRQHandler
+                0x08008d34                DMA1_Stream1_IRQHandler
+                0x08008d34                UART4_IRQHandler
+                0x08008d34                TIM3_IRQHandler
+                0x08008d34                RCC_IRQHandler
+                0x08008d34                TIM8_BRK_TIM12_IRQHandler
+                0x08008d34                Default_Handler
+                0x08008d34                EXTI15_10_IRQHandler
+                0x08008d34                ADC_IRQHandler
+                0x08008d34                DMA1_Stream7_IRQHandler
+                0x08008d34                TIM7_IRQHandler
+                0x08008d34                CAN2_TX_IRQHandler
+                0x08008d34                TIM5_IRQHandler
+                0x08008d34                DMA2_Stream7_IRQHandler
+                0x08008d34                I2C3_EV_IRQHandler
+                0x08008d34                EXTI9_5_IRQHandler
+                0x08008d34                RTC_WKUP_IRQHandler
+                0x08008d34                ETH_WKUP_IRQHandler
+                0x08008d34                SPI2_IRQHandler
+                0x08008d34                OTG_HS_EP1_IN_IRQHandler
+                0x08008d34                MemManage_Handler
+                0x08008d34                DMA1_Stream0_IRQHandler
+                0x08008d34                CAN1_TX_IRQHandler
+                0x08008d34                SVC_Handler
+                0x08008d34                EXTI4_IRQHandler
+                0x08008d34                FSMC_IRQHandler
+                0x08008d34                ETH_IRQHandler
+                0x08008d34                OTG_HS_EP1_OUT_IRQHandler
+                0x08008d34                WWDG_IRQHandler
+                0x08008d34                OTG_FS_WKUP_IRQHandler
+                0x08008d34                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08008d34                OTG_HS_IRQHandler
+                0x08008d34                EXTI1_IRQHandler
+                0x08008d34                USART2_IRQHandler
+                0x08008d34                I2C2_ER_IRQHandler
+                0x08008d34                DMA2_Stream1_IRQHandler
+                0x08008d34                CAN1_SCE_IRQHandler
+                0x08008d34                FLASH_IRQHandler
+                0x08008d34                DMA2_Stream4_IRQHandler
+                0x08008d34                BusFault_Handler
+                0x08008d34                USART1_IRQHandler
+                0x08008d34                OTG_FS_IRQHandler
+                0x08008d34                SPI3_IRQHandler
+                0x08008d34                DMA1_Stream4_IRQHandler
+                0x08008d34                I2C1_ER_IRQHandler
+                0x08008d34                DMA2_Stream6_IRQHandler
+                0x08008d34                DMA1_Stream3_IRQHandler
+ .text.cos      0x08008d38       0xa8 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+                0x08008d38                cos
+ .text.tan      0x08008de0       0x78 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+                0x08008de0                tan
+ .text.pow      0x08008e58      0x340 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+                0x08008e58                pow
+ .text.__ieee754_pow
+                0x08009198      0xae8 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                0x08009198                __ieee754_pow
+ .text.__ieee754_rem_pio2
+                0x08009c80      0x450 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                0x08009c80                __ieee754_rem_pio2
+ .text.__ieee754_sqrt
+                0x0800a0d0      0x198 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                0x0800a0d0                __ieee754_sqrt
+ .text.__kernel_cos
+                0x0800a268      0x280 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                0x0800a268                __kernel_cos
+ .text.__kernel_rem_pio2
+                0x0800a4e8      0x798 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                0x0800a4e8                __kernel_rem_pio2
+ .text.__kernel_sin
+                0x0800ac80      0x190 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                0x0800ac80                __kernel_sin
+ .text.__kernel_tan
+                0x0800ae10      0x3e0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                0x0800ae10                __kernel_tan
+ .text.fabs     0x0800b1f0       0x14 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+                0x0800b1f0                fabs
+ .text.finite   0x0800b204       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+                0x0800b204                finite
+ *fill*         0x0800b214        0x4 
+ .text.floor    0x0800b218      0x138 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                0x0800b218                floor
+ .text.__fpclassifyd
+                0x0800b350       0x54 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+                0x0800b350                __fpclassifyd
+ .text.matherr  0x0800b3a4        0x4 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+                0x0800b3a4                matherr
+ .text.nan      0x0800b3a8       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+                0x0800b3a8                nan
+ .text.rint     0x0800b3b8      0x120 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+                0x0800b3b8                rint
+ .text.scalbn   0x0800b4d8      0x120 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+                0x0800b4d8                scalbn
+ .text.copysign
+                0x0800b5f8       0x24 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+                0x0800b5f8                copysign
+ .text.__errno  0x0800b61c        0xc c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+                0x0800b61c                __errno
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.4
+                0x0800b628        0x4 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+ *fill*         0x0800b62c        0x4 
+ .rodata.dp_h   0x0800b630       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .rodata.dp_l   0x0800b640       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .rodata.bp     0x0800b650       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .rodata.str1.4
+                0x0800b660        0x1 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0800b661        0x3 
+ .rodata.npio2_hw
+                0x0800b664       0x80 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x0800b6e4      0x108 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.init_jk
+                0x0800b7ec       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ *fill*         0x0800b7fc        0x4 
+ .rodata.PIo2   0x0800b800       0x40 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.TWO52  0x0800b840       0x10 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+ .rodata.str1.4
+                0x0800b850        0x4 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0800b854        0x4 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x0800b854                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0800b858                . = ALIGN (0x4)
+                0x0800b858                _etext = .
+                0x0800b858                _exit = .
+
+.vfp11_veneer   0x0800b858        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800b858        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800b858        0x0
+ .iplt          0x00000000        0x0 ./Debug/src_main.o
+
+.rel.dyn        0x0800b858        0x0
+ .rel.iplt      0x00000000        0x0 ./Debug/src_main.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800b858        0x0
+                0x0800b858                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800b858                __exidx_end = .
+
+.preinit_array  0x0800b858        0x0
+                0x0800b858                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0800b858                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0800b858        0x0
+                0x0800b858                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x0800b858                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0800b858        0x0
+                0x0800b858                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                0x0800b858                PROVIDE (__fini_array_end, .)
+                0x0800b858                _sidata = .
+
+.config         0x1fffc000        0x0
+                0x1fffc000                . = ALIGN (0x4)
+ *(.config)
+                0x1fffc000                . = ALIGN (0x4)
+
+.optionbytes    0x1fffc000        0x0
+                0x1fffc000                . = ALIGN (0x4)
+ *(.optionbytes)
+                0x1fffc000                . = ALIGN (0x4)
+
+.data           0x20000000      0x454 load address 0x0800b858
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 ./Debug/src_main.o
+ .data          0x20000000        0x0 ./Debug/src_stm32f4xx_gpio.o
+ .data          0x20000000       0x10 ./Debug/src_stm32f4xx_rcc.o
+ .data          0x20000010       0x14 ./Debug/src_system_stm32f4xx_Discovery.o
+                0x20000010                SystemCoreClock
+                0x20000014                AHBPrescTable
+ .data          0x20000024        0x0 ./Debug/src_ADC.o
+ .data          0x20000024        0x0 ./Debug/src_analogToDigital.o
+ .data          0x20000024        0x0 ./Debug/src_DAC.o
+ .data          0x20000024        0x0 ./Debug/src_digitalToAnalog.o
+ .data          0x20000024        0x0 ./Debug/src_GPIO.o
+ .data          0x20000024        0x0 ./Debug/src_interruptController.o
+ .data          0x20000024        0x0 ./Debug/src_NVIC.o
+ .data          0x20000024        0x0 ./Debug/src_RCC.o
+ .data          0x20000024        0x0 ./Debug/src_serialCommunication.o
+ .data          0x20000024        0x0 ./Debug/src_stm32f4xx_adc.o
+ .data          0x20000024        0x0 ./Debug/src_stm32f4xx_dac.o
+ .data          0x20000024        0x0 ./Debug/src_stm32f4xx_tim.o
+ .data          0x20000024        0x0 ./Debug/src_stm32f4xx_usart.o
+ .data          0x20000024        0x0 ./Debug/src_TIM.o
+ .data          0x20000024        0x0 ./Debug/src_timer.o
+ .data          0x20000024        0x0 ./Debug/src_USART.o
+ .data          0x20000024        0x0 ./Debug/src_misc.o
+ .data          0x20000024        0x0 ./Debug/src_echo.o
+ .data          0x20000024        0x0 ./Debug/src_filter.o
+ .data          0x20000024        0x0 ./Debug/src_controlBus.o
+ .data          0x20000024        0x0 ./Debug/src_externalDAC.o
+ .data          0x20000024        0x0 ./Debug/src_soundBus.o
+ .data          0x20000024        0x0 ./Debug/src_stm32f4xx_i2c.o
+ .data          0x20000024        0x0 ./Debug/src_stm32f4xx_spi.o
+ .data          0x20000024        0x0 ./Debug/src_GUIInterface.o
+ .data          0x20000024        0x0 ./Debug/resources_startup_stm32f40xx.o
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .data          0x20000024        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ *(.data*)
+ .data.__fdlib_version
+                0x20000024        0x1 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+                0x20000024                __fdlib_version
+ *fill*         0x20000025        0x3 
+ .data.impure_data
+                0x20000028      0x428 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000450        0x4 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x20000450                _impure_ptr
+ *(.RAMtext)
+                0x20000454                . = ALIGN (0x4)
+                0x20000454                _edata = .
+                0x0800bcac                _eidata = (_sidata + (_edata - _sdata))
+                0x08100000                _lastdataromaddress = (ORIGIN (FLASH) + 0x100000)
+                0x00000000                __toobig__ = (_eidata > _lastdataromaddress)?0x1:0x0
+                0x00000000                __toobigmsg__ = __toobig__?FLASH is full.:0x0
+
+.igot.plt       0x20000454        0x0 load address 0x0800bcac
+ .igot.plt      0x00000000        0x0 ./Debug/src_main.o
+
+.bss            0x20000454    0x138d8 load address 0x0800bcac
+                0x20000454                . = ALIGN (0x4)
+                0x20000454                _sbss = .
+                0x20000454                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000454        0x0 ./Debug/src_main.o
+ .bss           0x20000454        0x0 ./Debug/src_stm32f4xx_gpio.o
+ .bss           0x20000454        0x0 ./Debug/src_stm32f4xx_rcc.o
+ .bss           0x20000454        0x0 ./Debug/src_system_stm32f4xx_Discovery.o
+ .bss           0x20000454        0x0 ./Debug/src_ADC.o
+ .bss           0x20000454        0x0 ./Debug/src_analogToDigital.o
+ .bss           0x20000454        0x2 ./Debug/src_DAC.o
+ .bss           0x20000456        0x0 ./Debug/src_digitalToAnalog.o
+ .bss           0x20000456        0x0 ./Debug/src_GPIO.o
+ .bss           0x20000456        0x0 ./Debug/src_interruptController.o
+ .bss           0x20000456        0x0 ./Debug/src_NVIC.o
+ .bss           0x20000456        0x0 ./Debug/src_RCC.o
+ *fill*         0x20000456        0x2 
+ .bss           0x20000458        0x4 ./Debug/src_serialCommunication.o
+                0x20000458                counter
+ .bss           0x2000045c        0x0 ./Debug/src_stm32f4xx_adc.o
+ .bss           0x2000045c        0x0 ./Debug/src_stm32f4xx_dac.o
+ .bss           0x2000045c        0x0 ./Debug/src_stm32f4xx_tim.o
+ .bss           0x2000045c        0x0 ./Debug/src_stm32f4xx_usart.o
+ .bss           0x2000045c        0x0 ./Debug/src_TIM.o
+ .bss           0x2000045c        0x0 ./Debug/src_timer.o
+ .bss           0x2000045c        0x0 ./Debug/src_USART.o
+ .bss           0x2000045c        0x0 ./Debug/src_misc.o
+ .bss           0x2000045c    0x13888 ./Debug/src_echo.o
+ .bss           0x20013ce4       0x34 ./Debug/src_filter.o
+ .bss           0x20013d18        0x0 ./Debug/src_controlBus.o
+ .bss           0x20013d18        0x0 ./Debug/src_externalDAC.o
+ .bss           0x20013d18        0x0 ./Debug/src_soundBus.o
+ .bss           0x20013d18        0x0 ./Debug/src_stm32f4xx_i2c.o
+ .bss           0x20013d18        0x0 ./Debug/src_stm32f4xx_spi.o
+ .bss           0x20013d18        0x0 ./Debug/src_GUIInterface.o
+ .bss           0x20013d18        0x0 ./Debug/resources_startup_stm32f40xx.o
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .bss           0x20013d18        0x0 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20013d18        0xe ./Debug/src_main.o
+                0x20013d18                EqValues
+ *fill*         0x20013d26        0x2 
+ COMMON         0x20013d28        0x4 ./Debug/src_NVIC.o
+                0x20013d28                NVIC_InitStructure
+                0x20013d2c                . = ALIGN (0x4)
+                0x20013d2c                _ebss = .
+                0x20013d2c                __bss_end__ = _ebss
+                0x20013d2c                PROVIDE (end, _ebss)
+                0x20013d2c                PROVIDE (_end, _ebss)
+
+.heap           0x20013d2c    0x1a000 load address 0x0801f584
+                0x20013d2c                . = ALIGN (0x4)
+ *(.heap)
+ *(.heap*)
+ *(.HEAP)
+                0x2002dd2c                . = (. + _Minimum_Heap_Size)
+ *fill*         0x20013d2c    0x1a000 
+                0x2002dd2c                . = ALIGN (0x4)
+
+.stack          0x2002dd2c      0x400 load address 0x08039584
+                0x2002dd2c                . = ALIGN (0x4)
+ *(.stack)
+ *(.stack*)
+ *(.STACK)
+                0x2002e12c                . = (. + _Minimum_Stack_Size)
+ *fill*         0x2002dd2c      0x400 
+                0x2002e12c                . = ALIGN (0x4)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0text*)
+ *(.eb0rodata)
+ *(.eb0rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x35
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x33 ./Debug/src_main.o
+ .ARM.attributes
+                0x00000033       0x33 ./Debug/src_stm32f4xx_gpio.o
+ .ARM.attributes
+                0x00000066       0x33 ./Debug/src_stm32f4xx_rcc.o
+ .ARM.attributes
+                0x00000099       0x33 ./Debug/src_system_stm32f4xx_Discovery.o
+ .ARM.attributes
+                0x000000cc       0x33 ./Debug/src_ADC.o
+ .ARM.attributes
+                0x000000ff       0x33 ./Debug/src_analogToDigital.o
+ .ARM.attributes
+                0x00000132       0x33 ./Debug/src_DAC.o
+ .ARM.attributes
+                0x00000165       0x33 ./Debug/src_digitalToAnalog.o
+ .ARM.attributes
+                0x00000198       0x33 ./Debug/src_GPIO.o
+ .ARM.attributes
+                0x000001cb       0x33 ./Debug/src_interruptController.o
+ .ARM.attributes
+                0x000001fe       0x33 ./Debug/src_NVIC.o
+ .ARM.attributes
+                0x00000231       0x33 ./Debug/src_RCC.o
+ .ARM.attributes
+                0x00000264       0x33 ./Debug/src_serialCommunication.o
+ .ARM.attributes
+                0x00000297       0x33 ./Debug/src_stm32f4xx_adc.o
+ .ARM.attributes
+                0x000002ca       0x33 ./Debug/src_stm32f4xx_dac.o
+ .ARM.attributes
+                0x000002fd       0x33 ./Debug/src_stm32f4xx_tim.o
+ .ARM.attributes
+                0x00000330       0x33 ./Debug/src_stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000363       0x33 ./Debug/src_TIM.o
+ .ARM.attributes
+                0x00000396       0x33 ./Debug/src_timer.o
+ .ARM.attributes
+                0x000003c9       0x33 ./Debug/src_USART.o
+ .ARM.attributes
+                0x000003fc       0x33 ./Debug/src_misc.o
+ .ARM.attributes
+                0x0000042f       0x33 ./Debug/src_echo.o
+ .ARM.attributes
+                0x00000462       0x33 ./Debug/src_filter.o
+ .ARM.attributes
+                0x00000495       0x33 ./Debug/src_controlBus.o
+ .ARM.attributes
+                0x000004c8       0x33 ./Debug/src_externalDAC.o
+ .ARM.attributes
+                0x000004fb       0x33 ./Debug/src_soundBus.o
+ .ARM.attributes
+                0x0000052e       0x33 ./Debug/src_stm32f4xx_i2c.o
+ .ARM.attributes
+                0x00000561       0x33 ./Debug/src_stm32f4xx_spi.o
+ .ARM.attributes
+                0x00000594       0x33 ./Debug/src_GUIInterface.o
+ .ARM.attributes
+                0x000005c7       0x21 ./Debug/resources_startup_stm32f40xx.o
+ .ARM.attributes
+                0x000005e8       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+ .ARM.attributes
+                0x0000061c       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+ .ARM.attributes
+                0x00000650       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x00000684       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x000006b8       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x000006ec       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000720       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+ .ARM.attributes
+                0x00000754       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x00000788       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+ .ARM.attributes
+                0x000007bc       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+ .ARM.attributes
+                0x000007f0       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000824       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x00000858       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x0000088c       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000008c0       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000008f4       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000928       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000095c       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x00000990       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000009c4       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x000009f8       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000a1a       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000a3c       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000a5e       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000a80       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000aa2       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000ac4       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000ae6       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000b08       0x22 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000b2a       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000b5e       0x34 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+OUTPUT(./Debug/SoundSystem.elf elf32-littlearm)
+
+.debug_info     0x00000000     0xbf03
+ .debug_info    0x00000000      0x669 ./Debug/src_main.o
+ .debug_info    0x00000669      0x66d ./Debug/src_stm32f4xx_gpio.o
+ .debug_info    0x00000cd6      0xf54 ./Debug/src_stm32f4xx_rcc.o
+ .debug_info    0x00001c2a      0x64c ./Debug/src_system_stm32f4xx_Discovery.o
+ .debug_info    0x00002276      0x3d9 ./Debug/src_ADC.o
+ .debug_info    0x0000264f      0x3c8 ./Debug/src_analogToDigital.o
+ .debug_info    0x00002a17      0x1eb ./Debug/src_DAC.o
+ .debug_info    0x00002c02      0x2db ./Debug/src_digitalToAnalog.o
+ .debug_info    0x00002edd      0x30a ./Debug/src_GPIO.o
+ .debug_info    0x000031e7      0x64b ./Debug/src_interruptController.o
+ .debug_info    0x00003832      0x181 ./Debug/src_NVIC.o
+ .debug_info    0x000039b3      0x12b ./Debug/src_RCC.o
+ .debug_info    0x00003ade      0x4be ./Debug/src_serialCommunication.o
+ .debug_info    0x00003f9c      0xd3c ./Debug/src_stm32f4xx_adc.o
+ .debug_info    0x00004cd8      0x6b8 ./Debug/src_stm32f4xx_dac.o
+ .debug_info    0x00005390     0x1ea5 ./Debug/src_stm32f4xx_tim.o
+ .debug_info    0x00007235      0xa8d ./Debug/src_stm32f4xx_usart.o
+ .debug_info    0x00007cc2      0x8ae ./Debug/src_TIM.o
+ .debug_info    0x00008570      0x32a ./Debug/src_timer.o
+ .debug_info    0x0000889a      0x392 ./Debug/src_USART.o
+ .debug_info    0x00008c2c      0x5af ./Debug/src_misc.o
+ .debug_info    0x000091db      0x14d ./Debug/src_echo.o
+ .debug_info    0x00009328      0x48f ./Debug/src_filter.o
+ .debug_info    0x000097b7      0x4f9 ./Debug/src_controlBus.o
+ .debug_info    0x00009cb0      0x315 ./Debug/src_externalDAC.o
+ .debug_info    0x00009fc5      0x48f ./Debug/src_soundBus.o
+ .debug_info    0x0000a454      0xc74 ./Debug/src_stm32f4xx_i2c.o
+ .debug_info    0x0000b0c8      0xc26 ./Debug/src_stm32f4xx_spi.o
+ .debug_info    0x0000bcee      0x215 ./Debug/src_GUIInterface.o
+
+.debug_abbrev   0x00000000     0x2024
+ .debug_abbrev  0x00000000      0x152 ./Debug/src_main.o
+ .debug_abbrev  0x00000152      0x1a3 ./Debug/src_stm32f4xx_gpio.o
+ .debug_abbrev  0x000002f5      0x1ba ./Debug/src_stm32f4xx_rcc.o
+ .debug_abbrev  0x000004af      0x136 ./Debug/src_system_stm32f4xx_Discovery.o
+ .debug_abbrev  0x000005e5       0xef ./Debug/src_ADC.o
+ .debug_abbrev  0x000006d4      0x10b ./Debug/src_analogToDigital.o
+ .debug_abbrev  0x000007df       0xb7 ./Debug/src_DAC.o
+ .debug_abbrev  0x00000896      0x115 ./Debug/src_digitalToAnalog.o
+ .debug_abbrev  0x000009ab      0x10a ./Debug/src_GPIO.o
+ .debug_abbrev  0x00000ab5       0xc2 ./Debug/src_interruptController.o
+ .debug_abbrev  0x00000b77       0xc6 ./Debug/src_NVIC.o
+ .debug_abbrev  0x00000c3d       0xa8 ./Debug/src_RCC.o
+ .debug_abbrev  0x00000ce5      0x18c ./Debug/src_serialCommunication.o
+ .debug_abbrev  0x00000e71      0x196 ./Debug/src_stm32f4xx_adc.o
+ .debug_abbrev  0x00001007      0x17c ./Debug/src_stm32f4xx_dac.o
+ .debug_abbrev  0x00001183      0x187 ./Debug/src_stm32f4xx_tim.o
+ .debug_abbrev  0x0000130a      0x155 ./Debug/src_stm32f4xx_usart.o
+ .debug_abbrev  0x0000145f       0xe2 ./Debug/src_TIM.o
+ .debug_abbrev  0x00001541       0xb3 ./Debug/src_timer.o
+ .debug_abbrev  0x000015f4      0x11d ./Debug/src_USART.o
+ .debug_abbrev  0x00001711      0x127 ./Debug/src_misc.o
+ .debug_abbrev  0x00001838       0x81 ./Debug/src_echo.o
+ .debug_abbrev  0x000018b9       0xdc ./Debug/src_filter.o
+ .debug_abbrev  0x00001995      0x117 ./Debug/src_controlBus.o
+ .debug_abbrev  0x00001aac      0x10a ./Debug/src_externalDAC.o
+ .debug_abbrev  0x00001bb6       0xff ./Debug/src_soundBus.o
+ .debug_abbrev  0x00001cb5      0x164 ./Debug/src_stm32f4xx_i2c.o
+ .debug_abbrev  0x00001e19      0x167 ./Debug/src_stm32f4xx_spi.o
+ .debug_abbrev  0x00001f80       0xa4 ./Debug/src_GUIInterface.o
+
+.debug_loc      0x00000000     0x51bc
+ .debug_loc     0x00000000       0xf4 ./Debug/src_main.o
+ .debug_loc     0x000000f4      0x310 ./Debug/src_stm32f4xx_gpio.o
+ .debug_loc     0x00000404      0xb3c ./Debug/src_stm32f4xx_rcc.o
+ .debug_loc     0x00000f40       0x9c ./Debug/src_system_stm32f4xx_Discovery.o
+ .debug_loc     0x00000fdc       0x70 ./Debug/src_ADC.o
+ .debug_loc     0x0000104c       0x9c ./Debug/src_analogToDigital.o
+ .debug_loc     0x000010e8       0x70 ./Debug/src_DAC.o
+ .debug_loc     0x00001158       0x70 ./Debug/src_digitalToAnalog.o
+ .debug_loc     0x000011c8       0x38 ./Debug/src_GPIO.o
+ .debug_loc     0x00001200       0x2c ./Debug/src_interruptController.o
+ .debug_loc     0x0000122c       0x38 ./Debug/src_NVIC.o
+ .debug_loc     0x00001264       0x38 ./Debug/src_RCC.o
+ .debug_loc     0x0000129c      0x150 ./Debug/src_serialCommunication.o
+ .debug_loc     0x000013ec      0x838 ./Debug/src_stm32f4xx_adc.o
+ .debug_loc     0x00001c24      0x3ac ./Debug/src_stm32f4xx_dac.o
+ .debug_loc     0x00001fd0     0x1420 ./Debug/src_stm32f4xx_tim.o
+ .debug_loc     0x000033f0      0x658 ./Debug/src_stm32f4xx_usart.o
+ .debug_loc     0x00003a48      0x230 ./Debug/src_TIM.o
+ .debug_loc     0x00003c78       0x38 ./Debug/src_timer.o
+ .debug_loc     0x00003cb0       0xa8 ./Debug/src_USART.o
+ .debug_loc     0x00003d58      0x118 ./Debug/src_misc.o
+ .debug_loc     0x00003e70       0x38 ./Debug/src_echo.o
+ .debug_loc     0x00003ea8      0x230 ./Debug/src_filter.o
+ .debug_loc     0x000040d8       0xa8 ./Debug/src_controlBus.o
+ .debug_loc     0x00004180       0x9c ./Debug/src_externalDAC.o
+ .debug_loc     0x0000421c       0x70 ./Debug/src_soundBus.o
+ .debug_loc     0x0000428c      0x7a8 ./Debug/src_stm32f4xx_i2c.o
+ .debug_loc     0x00004a34      0x578 ./Debug/src_stm32f4xx_spi.o
+ .debug_loc     0x00004fac      0x210 ./Debug/src_GUIInterface.o
+
+.debug_aranges  0x00000000      0x3a0
+ .debug_aranges
+                0x00000000       0x20 ./Debug/src_main.o
+ .debug_aranges
+                0x00000020       0x20 ./Debug/src_stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000040       0x20 ./Debug/src_stm32f4xx_rcc.o
+ .debug_aranges
+                0x00000060       0x20 ./Debug/src_system_stm32f4xx_Discovery.o
+ .debug_aranges
+                0x00000080       0x20 ./Debug/src_ADC.o
+ .debug_aranges
+                0x000000a0       0x20 ./Debug/src_analogToDigital.o
+ .debug_aranges
+                0x000000c0       0x20 ./Debug/src_DAC.o
+ .debug_aranges
+                0x000000e0       0x20 ./Debug/src_digitalToAnalog.o
+ .debug_aranges
+                0x00000100       0x20 ./Debug/src_GPIO.o
+ .debug_aranges
+                0x00000120       0x20 ./Debug/src_interruptController.o
+ .debug_aranges
+                0x00000140       0x20 ./Debug/src_NVIC.o
+ .debug_aranges
+                0x00000160       0x20 ./Debug/src_RCC.o
+ .debug_aranges
+                0x00000180       0x20 ./Debug/src_serialCommunication.o
+ .debug_aranges
+                0x000001a0       0x20 ./Debug/src_stm32f4xx_adc.o
+ .debug_aranges
+                0x000001c0       0x20 ./Debug/src_stm32f4xx_dac.o
+ .debug_aranges
+                0x000001e0       0x20 ./Debug/src_stm32f4xx_tim.o
+ .debug_aranges
+                0x00000200       0x20 ./Debug/src_stm32f4xx_usart.o
+ .debug_aranges
+                0x00000220       0x20 ./Debug/src_TIM.o
+ .debug_aranges
+                0x00000240       0x20 ./Debug/src_timer.o
+ .debug_aranges
+                0x00000260       0x20 ./Debug/src_USART.o
+ .debug_aranges
+                0x00000280       0x20 ./Debug/src_misc.o
+ .debug_aranges
+                0x000002a0       0x20 ./Debug/src_echo.o
+ .debug_aranges
+                0x000002c0       0x20 ./Debug/src_filter.o
+ .debug_aranges
+                0x000002e0       0x20 ./Debug/src_controlBus.o
+ .debug_aranges
+                0x00000300       0x20 ./Debug/src_externalDAC.o
+ .debug_aranges
+                0x00000320       0x20 ./Debug/src_soundBus.o
+ .debug_aranges
+                0x00000340       0x20 ./Debug/src_stm32f4xx_i2c.o
+ .debug_aranges
+                0x00000360       0x20 ./Debug/src_stm32f4xx_spi.o
+ .debug_aranges
+                0x00000380       0x20 ./Debug/src_GUIInterface.o
+
+.debug_line     0x00000000     0x34c1
+ .debug_line    0x00000000      0x17e ./Debug/src_main.o
+ .debug_line    0x0000017e      0x1f3 ./Debug/src_stm32f4xx_gpio.o
+ .debug_line    0x00000371      0x302 ./Debug/src_stm32f4xx_rcc.o
+ .debug_line    0x00000673      0x1a1 ./Debug/src_system_stm32f4xx_Discovery.o
+ .debug_line    0x00000814      0x15a ./Debug/src_ADC.o
+ .debug_line    0x0000096e      0x16b ./Debug/src_analogToDigital.o
+ .debug_line    0x00000ad9      0x157 ./Debug/src_DAC.o
+ .debug_line    0x00000c30      0x160 ./Debug/src_digitalToAnalog.o
+ .debug_line    0x00000d90      0x151 ./Debug/src_GPIO.o
+ .debug_line    0x00000ee1      0x149 ./Debug/src_interruptController.o
+ .debug_line    0x0000102a      0x145 ./Debug/src_NVIC.o
+ .debug_line    0x0000116f      0x1f2 ./Debug/src_RCC.o
+ .debug_line    0x00001361      0x1db ./Debug/src_serialCommunication.o
+ .debug_line    0x0000153c      0x2c1 ./Debug/src_stm32f4xx_adc.o
+ .debug_line    0x000017fd      0x1df ./Debug/src_stm32f4xx_dac.o
+ .debug_line    0x000019dc      0x517 ./Debug/src_stm32f4xx_tim.o
+ .debug_line    0x00001ef3      0x296 ./Debug/src_stm32f4xx_usart.o
+ .debug_line    0x00002189      0x1e3 ./Debug/src_TIM.o
+ .debug_line    0x0000236c      0x13a ./Debug/src_timer.o
+ .debug_line    0x000024a6      0x16d ./Debug/src_USART.o
+ .debug_line    0x00002613      0x168 ./Debug/src_misc.o
+ .debug_line    0x0000277b       0xf1 ./Debug/src_echo.o
+ .debug_line    0x0000286c      0x14e ./Debug/src_filter.o
+ .debug_line    0x000029ba      0x1ac ./Debug/src_controlBus.o
+ .debug_line    0x00002b66      0x165 ./Debug/src_externalDAC.o
+ .debug_line    0x00002ccb      0x178 ./Debug/src_soundBus.o
+ .debug_line    0x00002e43      0x29d ./Debug/src_stm32f4xx_i2c.o
+ .debug_line    0x000030e0      0x274 ./Debug/src_stm32f4xx_spi.o
+ .debug_line    0x00003354      0x16d ./Debug/src_GUIInterface.o
+
+.debug_str      0x00000000     0x3f85
+ .debug_str     0x00000000      0x313 ./Debug/src_main.o
+                                0x378 (size before relaxing)
+ .debug_str     0x00000313      0x331 ./Debug/src_stm32f4xx_gpio.o
+                                0x48e (size before relaxing)
+ .debug_str     0x00000644      0x792 ./Debug/src_stm32f4xx_rcc.o
+                                0x983 (size before relaxing)
+ .debug_str     0x00000dd6      0x127 ./Debug/src_system_stm32f4xx_Discovery.o
+                                0x3c2 (size before relaxing)
+ .debug_str     0x00000efd      0x164 ./Debug/src_ADC.o
+                                0x31f (size before relaxing)
+ .debug_str     0x00001061       0x6e ./Debug/src_analogToDigital.o
+                                0x32b (size before relaxing)
+ .debug_str     0x000010cf       0xf3 ./Debug/src_DAC.o
+                                0x248 (size before relaxing)
+ .debug_str     0x000011c2       0x67 ./Debug/src_digitalToAnalog.o
+                                0x33e (size before relaxing)
+ .debug_str     0x00001229       0x55 ./Debug/src_GPIO.o
+                                0x323 (size before relaxing)
+ .debug_str     0x0000127e      0x556 ./Debug/src_interruptController.o
+                                0x7a3 (size before relaxing)
+ .debug_str     0x000017d4       0xcd ./Debug/src_NVIC.o
+                                0x21c (size before relaxing)
+ .debug_str     0x000018a1       0x55 ./Debug/src_RCC.o
+                                0x1c8 (size before relaxing)
+ .debug_str     0x000018f6       0xaa ./Debug/src_serialCommunication.o
+                                0x3fc (size before relaxing)
+ .debug_str     0x000019a0      0x4f6 ./Debug/src_stm32f4xx_adc.o
+                                0x7f2 (size before relaxing)
+ .debug_str     0x00001e96      0x204 ./Debug/src_stm32f4xx_dac.o
+                                0x441 (size before relaxing)
+ .debug_str     0x0000209a      0xae7 ./Debug/src_stm32f4xx_tim.o
+                                0xdbe (size before relaxing)
+ .debug_str     0x00002b81      0x415 ./Debug/src_stm32f4xx_usart.o
+                                0x67d (size before relaxing)
+ .debug_str     0x00002f96      0x16a ./Debug/src_TIM.o
+                                0x5a3 (size before relaxing)
+ .debug_str     0x00003100       0x45 ./Debug/src_timer.o
+                                0x27a (size before relaxing)
+ .debug_str     0x00003145       0x82 ./Debug/src_USART.o
+                                0x2fd (size before relaxing)
+ .debug_str     0x000031c7      0x152 ./Debug/src_misc.o
+                                0x3bc (size before relaxing)
+ .debug_str     0x00003319       0xaf ./Debug/src_echo.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x000033c8      0x1e9 ./Debug/src_filter.o
+                                0x321 (size before relaxing)
+ .debug_str     0x000035b1      0x11c ./Debug/src_controlBus.o
+                                0x477 (size before relaxing)
+ .debug_str     0x000036cd       0x83 ./Debug/src_externalDAC.o
+                                0x36b (size before relaxing)
+ .debug_str     0x00003750       0xe4 ./Debug/src_soundBus.o
+                                0x43d (size before relaxing)
+ .debug_str     0x00003834      0x37d ./Debug/src_stm32f4xx_i2c.o
+                                0x6a0 (size before relaxing)
+ .debug_str     0x00003bb1      0x310 ./Debug/src_stm32f4xx_spi.o
+                                0x68b (size before relaxing)
+ .debug_str     0x00003ec1       0xc4 ./Debug/src_GUIInterface.o
+                                0x232 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./Debug/src_main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 ./Debug/src_system_stm32f4xx_Discovery.o
+ .comment       0x00000000       0x71 ./Debug/src_ADC.o
+ .comment       0x00000000       0x71 ./Debug/src_analogToDigital.o
+ .comment       0x00000000       0x71 ./Debug/src_DAC.o
+ .comment       0x00000000       0x71 ./Debug/src_digitalToAnalog.o
+ .comment       0x00000000       0x71 ./Debug/src_GPIO.o
+ .comment       0x00000000       0x71 ./Debug/src_interruptController.o
+ .comment       0x00000000       0x71 ./Debug/src_NVIC.o
+ .comment       0x00000000       0x71 ./Debug/src_RCC.o
+ .comment       0x00000000       0x71 ./Debug/src_serialCommunication.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_adc.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_dac.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_tim.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_usart.o
+ .comment       0x00000000       0x71 ./Debug/src_TIM.o
+ .comment       0x00000000       0x71 ./Debug/src_timer.o
+ .comment       0x00000000       0x71 ./Debug/src_USART.o
+ .comment       0x00000000       0x71 ./Debug/src_misc.o
+ .comment       0x00000000       0x71 ./Debug/src_echo.o
+ .comment       0x00000000       0x71 ./Debug/src_filter.o
+ .comment       0x00000000       0x71 ./Debug/src_controlBus.o
+ .comment       0x00000000       0x71 ./Debug/src_externalDAC.o
+ .comment       0x00000000       0x71 ./Debug/src_soundBus.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_i2c.o
+ .comment       0x00000000       0x71 ./Debug/src_stm32f4xx_spi.o
+ .comment       0x00000000       0x71 ./Debug/src_GUIInterface.o
+
+.debug_frame    0x00000000     0x3004
+ .debug_frame   0x00000000       0xa4 ./Debug/src_main.o
+ .debug_frame   0x000000a4      0x19c ./Debug/src_stm32f4xx_gpio.o
+ .debug_frame   0x00000240      0x5b8 ./Debug/src_stm32f4xx_rcc.o
+ .debug_frame   0x000007f8       0x64 ./Debug/src_system_stm32f4xx_Discovery.o
+ .debug_frame   0x0000085c       0x50 ./Debug/src_ADC.o
+ .debug_frame   0x000008ac       0x6c ./Debug/src_analogToDigital.o
+ .debug_frame   0x00000918       0x50 ./Debug/src_DAC.o
+ .debug_frame   0x00000968       0x50 ./Debug/src_digitalToAnalog.o
+ .debug_frame   0x000009b8       0x30 ./Debug/src_GPIO.o
+ .debug_frame   0x000009e8       0x2c ./Debug/src_interruptController.o
+ .debug_frame   0x00000a14       0x30 ./Debug/src_NVIC.o
+ .debug_frame   0x00000a44       0x30 ./Debug/src_RCC.o
+ .debug_frame   0x00000a74       0xd8 ./Debug/src_serialCommunication.o
+ .debug_frame   0x00000b4c      0x434 ./Debug/src_stm32f4xx_adc.o
+ .debug_frame   0x00000f80      0x1ec ./Debug/src_stm32f4xx_dac.o
+ .debug_frame   0x0000116c      0xa3c ./Debug/src_stm32f4xx_tim.o
+ .debug_frame   0x00001ba8      0x344 ./Debug/src_stm32f4xx_usart.o
+ .debug_frame   0x00001eec      0x150 ./Debug/src_TIM.o
+ .debug_frame   0x0000203c       0x30 ./Debug/src_timer.o
+ .debug_frame   0x0000206c       0x70 ./Debug/src_USART.o
+ .debug_frame   0x000020dc       0x9c ./Debug/src_misc.o
+ .debug_frame   0x00002178       0x34 ./Debug/src_echo.o
+ .debug_frame   0x000021ac      0x174 ./Debug/src_filter.o
+ .debug_frame   0x00002320       0x70 ./Debug/src_controlBus.o
+ .debug_frame   0x00002390       0x6c ./Debug/src_externalDAC.o
+ .debug_frame   0x000023fc       0x50 ./Debug/src_soundBus.o
+ .debug_frame   0x0000244c      0x3ec ./Debug/src_stm32f4xx_i2c.o
+ .debug_frame   0x00002838      0x2d0 ./Debug/src_stm32f4xx_spi.o
+ .debug_frame   0x00002b08      0x13c ./Debug/src_GUIInterface.o
+ .debug_frame   0x00002c44       0x28 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+ .debug_frame   0x00002c6c       0x28 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+ .debug_frame   0x00002c94       0x40 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x00002cd4       0x44 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x00002d18       0x38 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+ .debug_frame   0x00002d50       0x3c c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00002d8c       0x40 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+ .debug_frame   0x00002dcc       0x3c c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+ .debug_frame   0x00002e08       0x40 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+ .debug_frame   0x00002e48       0x38 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+ .debug_frame   0x00002e80       0x20 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00002ea0       0x20 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x00002ec0       0x38 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x00002ef8       0x28 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00002f20       0x20 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00002f40       0x20 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00002f60       0x30 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x00002f90       0x2c c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00002fbc       0x28 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x00002fe4       0x20 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_startConversion                              ./Debug/src_analogToDigital.o
+                                                  ./Debug/src_main.o
+ADC_AnalogWatchdogCmd                             ./Debug/src_stm32f4xx_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             ./Debug/src_stm32f4xx_adc.o
+ADC_AnalogWatchdogThresholdsConfig                ./Debug/src_stm32f4xx_adc.o
+ADC_AutoInjectedConvCmd                           ./Debug/src_stm32f4xx_adc.o
+ADC_ClearFlag                                     ./Debug/src_stm32f4xx_adc.o
+ADC_ClearITPendingBit                             ./Debug/src_stm32f4xx_adc.o
+ADC_Cmd                                           ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_analogToDigital.o
+ADC_CommonInit                                    ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_ADC.o
+ADC_CommonStructInit                              ./Debug/src_stm32f4xx_adc.o
+ADC_ContinuousModeCmd                             ./Debug/src_stm32f4xx_adc.o
+ADC_DMACmd                                        ./Debug/src_stm32f4xx_adc.o
+ADC_DMARequestAfterLastTransferCmd                ./Debug/src_stm32f4xx_adc.o
+ADC_DeInit                                        ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_ADC.o
+ADC_DiscModeChannelCountConfig                    ./Debug/src_stm32f4xx_adc.o
+ADC_DiscModeCmd                                   ./Debug/src_stm32f4xx_adc.o
+ADC_EOCOnEachRegularChannelCmd                    ./Debug/src_stm32f4xx_adc.o
+ADC_ExternalTrigInjectedConvConfig                ./Debug/src_stm32f4xx_adc.o
+ADC_ExternalTrigInjectedConvEdgeConfig            ./Debug/src_stm32f4xx_adc.o
+ADC_GetConversionValue                            ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_analogToDigital.o
+                                                  ./Debug/src_main.o
+ADC_GetFlagStatus                                 ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_analogToDigital.o
+ADC_GetITStatus                                   ./Debug/src_stm32f4xx_adc.o
+ADC_GetInjectedConversionValue                    ./Debug/src_stm32f4xx_adc.o
+ADC_GetMultiModeConversionValue                   ./Debug/src_stm32f4xx_adc.o
+ADC_GetSoftwareStartConvStatus                    ./Debug/src_stm32f4xx_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         ./Debug/src_stm32f4xx_adc.o
+ADC_IRQHandler                                    ./Debug/resources_startup_stm32f40xx.o
+ADC_ITConfig                                      ./Debug/src_stm32f4xx_adc.o
+ADC_Init                                          ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_ADC.o
+ADC_InjectedChannelConfig                         ./Debug/src_stm32f4xx_adc.o
+ADC_InjectedDiscModeCmd                           ./Debug/src_stm32f4xx_adc.o
+ADC_InjectedSequencerLengthConfig                 ./Debug/src_stm32f4xx_adc.o
+ADC_MultiModeDMARequestAfterLastTransferCmd       ./Debug/src_stm32f4xx_adc.o
+ADC_RegularChannelConfig                          ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_analogToDigital.o
+ADC_SetInjectedOffset                             ./Debug/src_stm32f4xx_adc.o
+ADC_SoftwareStartConv                             ./Debug/src_stm32f4xx_adc.o
+                                                  ./Debug/src_analogToDigital.o
+ADC_SoftwareStartInjectedConv                     ./Debug/src_stm32f4xx_adc.o
+ADC_StructInit                                    ./Debug/src_stm32f4xx_adc.o
+ADC_TempSensorVrefintCmd                          ./Debug/src_stm32f4xx_adc.o
+ADC_VBATCmd                                       ./Debug/src_stm32f4xx_adc.o
+AHBPrescTable                                     ./Debug/src_system_stm32f4xx_Discovery.o
+BusFault_Handler                                  ./Debug/resources_startup_stm32f40xx.o
+CAN1_RX0_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+CAN1_RX1_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+CAN1_SCE_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+CAN1_TX_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+CAN2_RX0_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+CAN2_RX1_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+CAN2_SCE_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+CAN2_TX_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+CRYP_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+DAC_ClearFlag                                     ./Debug/src_stm32f4xx_dac.o
+DAC_ClearITPendingBit                             ./Debug/src_stm32f4xx_dac.o
+DAC_Cmd                                           ./Debug/src_stm32f4xx_dac.o
+                                                  ./Debug/src_digitalToAnalog.o
+                                                  ./Debug/src_DAC.o
+DAC_DMACmd                                        ./Debug/src_stm32f4xx_dac.o
+DAC_DeInit                                        ./Debug/src_stm32f4xx_dac.o
+                                                  ./Debug/src_DAC.o
+DAC_DualSoftwareTriggerCmd                        ./Debug/src_stm32f4xx_dac.o
+DAC_GetDataOutputValue                            ./Debug/src_stm32f4xx_dac.o
+DAC_GetFlagStatus                                 ./Debug/src_stm32f4xx_dac.o
+DAC_GetITStatus                                   ./Debug/src_stm32f4xx_dac.o
+DAC_ITConfig                                      ./Debug/src_stm32f4xx_dac.o
+DAC_Init                                          ./Debug/src_stm32f4xx_dac.o
+                                                  ./Debug/src_DAC.o
+DAC_SetChannel1Data                               ./Debug/src_stm32f4xx_dac.o
+                                                  ./Debug/src_DAC.o
+DAC_SetChannel2Data                               ./Debug/src_stm32f4xx_dac.o
+                                                  ./Debug/src_DAC.o
+                                                  ./Debug/src_main.o
+DAC_SetChannelData                                ./Debug/src_DAC.o
+DAC_SetDualChannelData                            ./Debug/src_stm32f4xx_dac.o
+DAC_SoftwareTriggerCmd                            ./Debug/src_stm32f4xx_dac.o
+DAC_StructInit                                    ./Debug/src_stm32f4xx_dac.o
+                                                  ./Debug/src_DAC.o
+DAC_WaveGenerationCmd                             ./Debug/src_stm32f4xx_dac.o
+DCMI_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream0_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream1_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream2_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream3_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream4_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream5_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream6_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA1_Stream7_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream0_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream1_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream2_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream3_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream4_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream5_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream6_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DMA2_Stream7_IRQHandler                           ./Debug/resources_startup_stm32f40xx.o
+DebugMon_Handler                                  ./Debug/resources_startup_stm32f40xx.o
+Default_Handler                                   ./Debug/resources_startup_stm32f40xx.o
+ETH_IRQHandler                                    ./Debug/resources_startup_stm32f40xx.o
+ETH_WKUP_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+EXTI0_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+EXTI15_10_IRQHandler                              ./Debug/resources_startup_stm32f40xx.o
+EXTI1_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+EXTI2_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+EXTI3_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+EXTI4_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+EXTI9_5_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+EqValues                                          ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_main.o
+FLASH_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+FPU_IRQHandler                                    ./Debug/resources_startup_stm32f40xx.o
+FSMC_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+GPIO_DeInit                                       ./Debug/src_stm32f4xx_gpio.o
+                                                  ./Debug/src_GPIO.o
+GPIO_Init                                         ./Debug/src_stm32f4xx_gpio.o
+                                                  ./Debug/src_soundBus.o
+                                                  ./Debug/src_externalDAC.o
+                                                  ./Debug/src_controlBus.o
+                                                  ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_GPIO.o
+                                                  ./Debug/src_digitalToAnalog.o
+GPIO_PinAFConfig                                  ./Debug/src_stm32f4xx_gpio.o
+                                                  ./Debug/src_soundBus.o
+                                                  ./Debug/src_controlBus.o
+                                                  ./Debug/src_serialCommunication.o
+GPIO_PinLockConfig                                ./Debug/src_stm32f4xx_gpio.o
+GPIO_ReadInputData                                ./Debug/src_stm32f4xx_gpio.o
+GPIO_ReadInputDataBit                             ./Debug/src_stm32f4xx_gpio.o
+GPIO_ReadOutputData                               ./Debug/src_stm32f4xx_gpio.o
+GPIO_ReadOutputDataBit                            ./Debug/src_stm32f4xx_gpio.o
+GPIO_ResetBits                                    ./Debug/src_stm32f4xx_gpio.o
+                                                  ./Debug/src_externalDAC.o
+GPIO_SetBits                                      ./Debug/src_stm32f4xx_gpio.o
+                                                  ./Debug/src_externalDAC.o
+GPIO_StructInit                                   ./Debug/src_stm32f4xx_gpio.o
+GPIO_ToggleBits                                   ./Debug/src_stm32f4xx_gpio.o
+GPIO_Write                                        ./Debug/src_stm32f4xx_gpio.o
+GPIO_WriteBit                                     ./Debug/src_stm32f4xx_gpio.o
+HASH_RNG_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+HardFault_Handler                                 ./Debug/resources_startup_stm32f40xx.o
+I2C1_ER_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+I2C1_EV_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+I2C2_ER_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+I2C2_EV_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+I2C3_ER_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+I2C3_EV_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+I2C_ARPCmd                                        ./Debug/src_stm32f4xx_i2c.o
+I2C_AcknowledgeConfig                             ./Debug/src_stm32f4xx_i2c.o
+I2C_AnalogFilterCmd                               ./Debug/src_stm32f4xx_i2c.o
+I2C_CalculatePEC                                  ./Debug/src_stm32f4xx_i2c.o
+I2C_CheckEvent                                    ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_ClearFlag                                     ./Debug/src_stm32f4xx_i2c.o
+I2C_ClearITPendingBit                             ./Debug/src_stm32f4xx_i2c.o
+I2C_Cmd                                           ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_DMACmd                                        ./Debug/src_stm32f4xx_i2c.o
+I2C_DMALastTransferCmd                            ./Debug/src_stm32f4xx_i2c.o
+I2C_DeInit                                        ./Debug/src_stm32f4xx_i2c.o
+I2C_DigitalFilterConfig                           ./Debug/src_stm32f4xx_i2c.o
+I2C_DualAddressCmd                                ./Debug/src_stm32f4xx_i2c.o
+I2C_FastModeDutyCycleConfig                       ./Debug/src_stm32f4xx_i2c.o
+I2C_GeneralCallCmd                                ./Debug/src_stm32f4xx_i2c.o
+I2C_GenerateSTART                                 ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_GenerateSTOP                                  ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_GetFlagStatus                                 ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_GetITStatus                                   ./Debug/src_stm32f4xx_i2c.o
+I2C_GetLastEvent                                  ./Debug/src_stm32f4xx_i2c.o
+I2C_GetPEC                                        ./Debug/src_stm32f4xx_i2c.o
+I2C_ITConfig                                      ./Debug/src_stm32f4xx_i2c.o
+I2C_Init                                          ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_NACKPositionConfig                            ./Debug/src_stm32f4xx_i2c.o
+I2C_OwnAddress2Config                             ./Debug/src_stm32f4xx_i2c.o
+I2C_PECPositionConfig                             ./Debug/src_stm32f4xx_i2c.o
+I2C_ReadRegister                                  ./Debug/src_stm32f4xx_i2c.o
+I2C_ReceiveData                                   ./Debug/src_stm32f4xx_i2c.o
+I2C_SMBusAlertConfig                              ./Debug/src_stm32f4xx_i2c.o
+I2C_Send7bitAddress                               ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_SendData                                      ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_controlBus.o
+I2C_SoftwareResetCmd                              ./Debug/src_stm32f4xx_i2c.o
+I2C_StretchClockCmd                               ./Debug/src_stm32f4xx_i2c.o
+I2C_StructInit                                    ./Debug/src_stm32f4xx_i2c.o
+I2C_TransmitPEC                                   ./Debug/src_stm32f4xx_i2c.o
+I2S_Cmd                                           ./Debug/src_stm32f4xx_spi.o
+                                                  ./Debug/src_soundBus.o
+I2S_FullDuplexConfig                              ./Debug/src_stm32f4xx_spi.o
+I2S_Init                                          ./Debug/src_stm32f4xx_spi.o
+                                                  ./Debug/src_soundBus.o
+I2S_StructInit                                    ./Debug/src_stm32f4xx_spi.o
+MemManage_Handler                                 ./Debug/resources_startup_stm32f40xx.o
+NMI_Handler                                       ./Debug/resources_startup_stm32f40xx.o
+NVIC_Init                                         ./Debug/src_misc.o
+                                                  ./Debug/src_NVIC.o
+NVIC_InitStructure                                ./Debug/src_NVIC.o
+NVIC_PriorityGroupConfig                          ./Debug/src_misc.o
+NVIC_SetVectorTable                               ./Debug/src_misc.o
+NVIC_SystemLPConfig                               ./Debug/src_misc.o
+OTG_FS_IRQHandler                                 ./Debug/resources_startup_stm32f40xx.o
+OTG_FS_WKUP_IRQHandler                            ./Debug/resources_startup_stm32f40xx.o
+OTG_HS_EP1_IN_IRQHandler                          ./Debug/resources_startup_stm32f40xx.o
+OTG_HS_EP1_OUT_IRQHandler                         ./Debug/resources_startup_stm32f40xx.o
+OTG_HS_IRQHandler                                 ./Debug/resources_startup_stm32f40xx.o
+OTG_HS_WKUP_IRQHandler                            ./Debug/resources_startup_stm32f40xx.o
+PVD_IRQHandler                                    ./Debug/resources_startup_stm32f40xx.o
+PendSV_Handler                                    ./Debug/resources_startup_stm32f40xx.o
+RCC_AHB1PeriphClockCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_RCC.o
+                                                  ./Debug/src_main.o
+RCC_AHB1PeriphClockLPModeCmd                      ./Debug/src_stm32f4xx_rcc.o
+RCC_AHB1PeriphResetCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_stm32f4xx_gpio.o
+RCC_AHB2PeriphClockCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_RCC.o
+RCC_AHB2PeriphClockLPModeCmd                      ./Debug/src_stm32f4xx_rcc.o
+RCC_AHB2PeriphResetCmd                            ./Debug/src_stm32f4xx_rcc.o
+RCC_AHB3PeriphClockCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_RCC.o
+RCC_AHB3PeriphClockLPModeCmd                      ./Debug/src_stm32f4xx_rcc.o
+RCC_AHB3PeriphResetCmd                            ./Debug/src_stm32f4xx_rcc.o
+RCC_APB1PeriphClockCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_RCC.o
+RCC_APB1PeriphClockLPModeCmd                      ./Debug/src_stm32f4xx_rcc.o
+RCC_APB1PeriphResetCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_stm32f4xx_spi.o
+                                                  ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_stm32f4xx_dac.o
+RCC_APB2PeriphClockCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_RCC.o
+RCC_APB2PeriphClockLPModeCmd                      ./Debug/src_stm32f4xx_rcc.o
+RCC_APB2PeriphResetCmd                            ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_stm32f4xx_spi.o
+                                                  ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_stm32f4xx_adc.o
+RCC_AdjustHSICalibrationValue                     ./Debug/src_stm32f4xx_rcc.o
+RCC_BackupResetCmd                                ./Debug/src_stm32f4xx_rcc.o
+RCC_ClearFlag                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_ClearITPendingBit                             ./Debug/src_stm32f4xx_rcc.o
+RCC_ClockSecuritySystemCmd                        ./Debug/src_stm32f4xx_rcc.o
+RCC_DeInit                                        ./Debug/src_stm32f4xx_rcc.o
+RCC_GetClocksFreq                                 ./Debug/src_stm32f4xx_rcc.o
+                                                  ./Debug/src_stm32f4xx_i2c.o
+                                                  ./Debug/src_stm32f4xx_usart.o
+RCC_GetFlagStatus                                 ./Debug/src_stm32f4xx_rcc.o
+RCC_GetITStatus                                   ./Debug/src_stm32f4xx_rcc.o
+RCC_GetSYSCLKSource                               ./Debug/src_stm32f4xx_rcc.o
+RCC_HCLKConfig                                    ./Debug/src_stm32f4xx_rcc.o
+RCC_HSEConfig                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_HSICmd                                        ./Debug/src_stm32f4xx_rcc.o
+RCC_I2SCLKConfig                                  ./Debug/src_stm32f4xx_rcc.o
+RCC_IRQHandler                                    ./Debug/resources_startup_stm32f40xx.o
+RCC_ITConfig                                      ./Debug/src_stm32f4xx_rcc.o
+RCC_LSEConfig                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_LSICmd                                        ./Debug/src_stm32f4xx_rcc.o
+RCC_LTDCCLKDivConfig                              ./Debug/src_stm32f4xx_rcc.o
+RCC_MCO1Config                                    ./Debug/src_stm32f4xx_rcc.o
+RCC_MCO2Config                                    ./Debug/src_stm32f4xx_rcc.o
+RCC_PCLK1Config                                   ./Debug/src_stm32f4xx_rcc.o
+RCC_PCLK2Config                                   ./Debug/src_stm32f4xx_rcc.o
+RCC_PLLCmd                                        ./Debug/src_stm32f4xx_rcc.o
+RCC_PLLConfig                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_PLLI2SCmd                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_PLLI2SConfig                                  ./Debug/src_stm32f4xx_rcc.o
+RCC_PLLSAICmd                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_PLLSAIConfig                                  ./Debug/src_stm32f4xx_rcc.o
+RCC_PeriphClockCmd                                ./Debug/src_RCC.o
+                                                  ./Debug/src_main.o
+RCC_RTCCLKCmd                                     ./Debug/src_stm32f4xx_rcc.o
+RCC_RTCCLKConfig                                  ./Debug/src_stm32f4xx_rcc.o
+RCC_SAIBlockACLKConfig                            ./Debug/src_stm32f4xx_rcc.o
+RCC_SAIBlockBCLKConfig                            ./Debug/src_stm32f4xx_rcc.o
+RCC_SAIPLLI2SClkDivConfig                         ./Debug/src_stm32f4xx_rcc.o
+RCC_SAIPLLSAIClkDivConfig                         ./Debug/src_stm32f4xx_rcc.o
+RCC_SYSCLKConfig                                  ./Debug/src_stm32f4xx_rcc.o
+RCC_TIMCLKPresConfig                              ./Debug/src_stm32f4xx_rcc.o
+RCC_WaitForHSEStartUp                             ./Debug/src_stm32f4xx_rcc.o
+RTC_Alarm_IRQHandler                              ./Debug/resources_startup_stm32f40xx.o
+RTC_WKUP_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+Reset_Handler                                     ./Debug/resources_startup_stm32f40xx.o
+SDIO_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+SPI1_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+SPI2_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+SPI3_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+SPI_BiDirectionalLineConfig                       ./Debug/src_stm32f4xx_spi.o
+SPI_CalculateCRC                                  ./Debug/src_stm32f4xx_spi.o
+SPI_Cmd                                           ./Debug/src_stm32f4xx_spi.o
+SPI_DataSizeConfig                                ./Debug/src_stm32f4xx_spi.o
+SPI_GetCRC                                        ./Debug/src_stm32f4xx_spi.o
+SPI_GetCRCPolynomial                              ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_ClearFlag                                 ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_ClearITPendingBit                         ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_DMACmd                                    ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_DeInit                                    ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_GetFlagStatus                             ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_GetITStatus                               ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_ITConfig                                  ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_ReceiveData                               ./Debug/src_stm32f4xx_spi.o
+SPI_I2S_SendData                                  ./Debug/src_stm32f4xx_spi.o
+SPI_Init                                          ./Debug/src_stm32f4xx_spi.o
+SPI_NSSInternalSoftwareConfig                     ./Debug/src_stm32f4xx_spi.o
+SPI_SSOutputCmd                                   ./Debug/src_stm32f4xx_spi.o
+SPI_StructInit                                    ./Debug/src_stm32f4xx_spi.o
+SPI_TIModeCmd                                     ./Debug/src_stm32f4xx_spi.o
+SPI_TransmitCRC                                   ./Debug/src_stm32f4xx_spi.o
+SVC_Handler                                       ./Debug/resources_startup_stm32f40xx.o
+SysTick_CLKSourceConfig                           ./Debug/src_misc.o
+SysTick_Handler                                   ./Debug/resources_startup_stm32f40xx.o
+SystemCoreClock                                   ./Debug/src_system_stm32f4xx_Discovery.o
+SystemCoreClockUpdate                             ./Debug/src_system_stm32f4xx_Discovery.o
+SystemInit                                        ./Debug/src_system_stm32f4xx_Discovery.o
+                                                  ./Debug/resources_startup_stm32f40xx.o
+TAMP_STAMP_IRQHandler                             ./Debug/resources_startup_stm32f40xx.o
+TIM1_BRK_TIM9_IRQHandler                          ./Debug/resources_startup_stm32f40xx.o
+TIM1_CC_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+TIM1_TRG_COM_TIM11_IRQHandler                     ./Debug/resources_startup_stm32f40xx.o
+TIM1_UP_TIM10_IRQHandler                          ./Debug/resources_startup_stm32f40xx.o
+TIM2_IRQHandler                                   ./Debug/src_main.o
+TIM3_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+TIM4_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+TIM5_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+TIM6_DAC_IRQHandler                               ./Debug/resources_startup_stm32f40xx.o
+TIM7_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+TIM8_BRK_TIM12_IRQHandler                         ./Debug/resources_startup_stm32f40xx.o
+TIM8_CC_IRQHandler                                ./Debug/resources_startup_stm32f40xx.o
+TIM8_TRG_COM_TIM14_IRQHandler                     ./Debug/resources_startup_stm32f40xx.o
+TIM8_UP_TIM13_IRQHandler                          ./Debug/resources_startup_stm32f40xx.o
+TIM_ARRPreloadConfig                              ./Debug/src_stm32f4xx_tim.o
+TIM_BDTRConfig                                    ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_BDTRStructInit                                ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_CCPreloadControl                              ./Debug/src_stm32f4xx_tim.o
+TIM_CCxCmd                                        ./Debug/src_stm32f4xx_tim.o
+TIM_CCxNCmd                                       ./Debug/src_stm32f4xx_tim.o
+TIM_ClearFlag                                     ./Debug/src_stm32f4xx_tim.o
+TIM_ClearITPendingBit                             ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_main.o
+TIM_ClearOC1Ref                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ClearOC2Ref                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ClearOC3Ref                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ClearOC4Ref                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ClearOCRef                                    ./Debug/src_TIM.o
+TIM_Cmd                                           ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_timer.o
+TIM_CounterModeConfig                             ./Debug/src_stm32f4xx_tim.o
+TIM_CtrlPWMOutputs                                ./Debug/src_stm32f4xx_tim.o
+TIM_DMACmd                                        ./Debug/src_stm32f4xx_tim.o
+TIM_DMAConfig                                     ./Debug/src_stm32f4xx_tim.o
+TIM_DeInit                                        ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ETRClockMode1Config                           ./Debug/src_stm32f4xx_tim.o
+TIM_ETRClockMode2Config                           ./Debug/src_stm32f4xx_tim.o
+TIM_ETRConfig                                     ./Debug/src_stm32f4xx_tim.o
+TIM_EncoderInterfaceConfig                        ./Debug/src_stm32f4xx_tim.o
+TIM_ForcedOC1Config                               ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ForcedOC2Config                               ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ForcedOC3Config                               ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ForcedOC4Config                               ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ForcedOCConfig                                ./Debug/src_TIM.o
+TIM_GenerateEvent                                 ./Debug/src_stm32f4xx_tim.o
+TIM_GetCapture1                                   ./Debug/src_stm32f4xx_tim.o
+TIM_GetCapture2                                   ./Debug/src_stm32f4xx_tim.o
+TIM_GetCapture3                                   ./Debug/src_stm32f4xx_tim.o
+TIM_GetCapture4                                   ./Debug/src_stm32f4xx_tim.o
+TIM_GetCounter                                    ./Debug/src_stm32f4xx_tim.o
+TIM_GetFlagStatus                                 ./Debug/src_stm32f4xx_tim.o
+TIM_GetITStatus                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_main.o
+TIM_GetPrescaler                                  ./Debug/src_stm32f4xx_tim.o
+TIM_ICInit                                        ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ICSetCompare                                  ./Debug/src_TIM.o
+TIM_ICStructInit                                  ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_ITConfig                                      ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_interruptController.o
+TIM_ITRxExternalClockConfig                       ./Debug/src_stm32f4xx_tim.o
+TIM_InternalClockConfig                           ./Debug/src_stm32f4xx_tim.o
+TIM_OC1FastConfig                                 ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC1Init                                       ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC1NPolarityConfig                            ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC1PolarityConfig                             ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC1PreloadConfig                              ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC2FastConfig                                 ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC2Init                                       ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC2NPolarityConfig                            ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC2PolarityConfig                             ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC2PreloadConfig                              ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC3FastConfig                                 ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC3Init                                       ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC3NPolarityConfig                            ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC3PolarityConfig                             ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC3PreloadConfig                              ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC4FastConfig                                 ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC4Init                                       ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC4PolarityConfig                             ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OC4PreloadConfig                              ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_OCFastConfig                                  ./Debug/src_TIM.o
+TIM_OCPolarityConfig                              ./Debug/src_TIM.o
+TIM_OCPreloadConfig                               ./Debug/src_TIM.o
+TIM_OCStructInit                                  ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_PWMIConfig                                    ./Debug/src_stm32f4xx_tim.o
+TIM_PrescalerConfig                               ./Debug/src_stm32f4xx_tim.o
+TIM_RemapConfig                                   ./Debug/src_stm32f4xx_tim.o
+TIM_SelectCCDMA                                   ./Debug/src_stm32f4xx_tim.o
+TIM_SelectCOM                                     ./Debug/src_stm32f4xx_tim.o
+TIM_SelectHallSensor                              ./Debug/src_stm32f4xx_tim.o
+TIM_SelectInputTrigger                            ./Debug/src_stm32f4xx_tim.o
+TIM_SelectMasterSlaveMode                         ./Debug/src_stm32f4xx_tim.o
+TIM_SelectOCxM                                    ./Debug/src_stm32f4xx_tim.o
+TIM_SelectOnePulseMode                            ./Debug/src_stm32f4xx_tim.o
+TIM_SelectOutputTrigger                           ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_timer.o
+TIM_SelectSlaveMode                               ./Debug/src_stm32f4xx_tim.o
+TIM_SetAutoreload                                 ./Debug/src_stm32f4xx_tim.o
+TIM_SetClockDivision                              ./Debug/src_stm32f4xx_tim.o
+TIM_SetCompare1                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_SetCompare2                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_SetCompare3                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_SetCompare4                                   ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_SetCounter                                    ./Debug/src_stm32f4xx_tim.o
+TIM_SetIC1Prescaler                               ./Debug/src_stm32f4xx_tim.o
+TIM_SetIC2Prescaler                               ./Debug/src_stm32f4xx_tim.o
+TIM_SetIC3Prescaler                               ./Debug/src_stm32f4xx_tim.o
+TIM_SetIC4Prescaler                               ./Debug/src_stm32f4xx_tim.o
+TIM_TIxExternalClockConfig                        ./Debug/src_stm32f4xx_tim.o
+TIM_TimeBaseInit                                  ./Debug/src_stm32f4xx_tim.o
+                                                  ./Debug/src_TIM.o
+TIM_TimeBaseStructInit                            ./Debug/src_stm32f4xx_tim.o
+TIM_UpdateDisableConfig                           ./Debug/src_stm32f4xx_tim.o
+TIM_UpdateRequestConfig                           ./Debug/src_stm32f4xx_tim.o
+UART4_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+UART5_IRQHandler                                  ./Debug/resources_startup_stm32f40xx.o
+USART1_IRQHandler                                 ./Debug/resources_startup_stm32f40xx.o
+USART2_IRQHandler                                 ./Debug/resources_startup_stm32f40xx.o
+USART3_IRQHandler                                 ./Debug/resources_startup_stm32f40xx.o
+USART6_IRQHandler                                 ./Debug/src_main.o
+USART_ClearFlag                                   ./Debug/src_stm32f4xx_usart.o
+USART_ClearITPendingBit                           ./Debug/src_stm32f4xx_usart.o
+USART_ClockInit                                   ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_USART.o
+USART_ClockStructInit                             ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_USART.o
+USART_Cmd                                         ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_USART.o
+USART_DMACmd                                      ./Debug/src_stm32f4xx_usart.o
+USART_DeInit                                      ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_USART.o
+USART_GetFlagStatus                               ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_USART.o
+USART_GetITStatus                                 ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_main.o
+USART_HalfDuplexCmd                               ./Debug/src_stm32f4xx_usart.o
+USART_ITConfig                                    ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_interruptController.o
+USART_Init                                        ./Debug/src_stm32f4xx_usart.o
+                                                  ./Debug/src_USART.o
+USART_IrDACmd                                     ./Debug/src_stm32f4xx_usart.o
+USART_IrDAConfig                                  ./Debug/src_stm32f4xx_usart.o
+USART_LINBreakDetectLengthConfig                  ./Debug/src_stm32f4xx_usart.o
+USART_LINCmd                                      ./Debug/src_stm32f4xx_usart.o
+USART_OneBitMethodCmd                             ./Debug/src_stm32f4xx_usart.o
+USART_OverSampling8Cmd                            ./Debug/src_stm32f4xx_usart.o
+USART_ReceiveData                                 ./Debug/src_stm32f4xx_usart.o
+USART_ReceiverWakeUpCmd                           ./Debug/src_stm32f4xx_usart.o
+USART_SendBreak                                   ./Debug/src_stm32f4xx_usart.o
+USART_SendData                                    ./Debug/src_stm32f4xx_usart.o
+USART_SetAddress                                  ./Debug/src_stm32f4xx_usart.o
+USART_SetGuardTime                                ./Debug/src_stm32f4xx_usart.o
+USART_SetPrescaler                                ./Debug/src_stm32f4xx_usart.o
+USART_SmartCardCmd                                ./Debug/src_stm32f4xx_usart.o
+USART_SmartCardNACKCmd                            ./Debug/src_stm32f4xx_usart.o
+USART_StructInit                                  ./Debug/src_stm32f4xx_usart.o
+USART_WakeUpConfig                                ./Debug/src_stm32f4xx_usart.o
+UsageFault_Handler                                ./Debug/resources_startup_stm32f40xx.o
+WWDG_IRQHandler                                   ./Debug/resources_startup_stm32f40xx.o
+__adddf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__addsf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_cdcmpeq                                   c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cfcmpeq                                   c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__aeabi_cfcmple                                   c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__aeabi_cfrcmple                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__aeabi_d2f                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                                                  ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_filter.o
+                                                  ./Debug/src_main.o
+__aeabi_d2iz                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+__aeabi_dadd                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                                  ./Debug/src_filter.o
+__aeabi_dcmpeq                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+__aeabi_dcmpge                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+__aeabi_dcmpgt                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+__aeabi_dcmple                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+__aeabi_dcmplt                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+__aeabi_ddiv                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+                                                  ./Debug/src_filter.o
+                                                  ./Debug/src_main.o
+__aeabi_dmul                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+                                                  ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_filter.o
+__aeabi_drsub                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+                                                  ./Debug/src_filter.o
+__aeabi_f2d                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_filter.o
+__aeabi_f2uiz                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+                                                  ./Debug/src_filter.o
+                                                  ./Debug/src_echo.o
+__aeabi_fadd                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  ./Debug/src_filter.o
+                                                  ./Debug/src_echo.o
+__aeabi_fcmpeq                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmpge                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                                                  ./Debug/src_filter.o
+__aeabi_fcmpgt                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                                                  ./Debug/src_filter.o
+__aeabi_fcmple                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmplt                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                                                  ./Debug/src_filter.o
+__aeabi_fdiv                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                                                  ./Debug/src_filter.o
+__aeabi_fmul                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                                                  ./Debug/src_filter.o
+                                                  ./Debug/src_echo.o
+__aeabi_frsub                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_fsub                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  ./Debug/src_filter.o
+__aeabi_i2d                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                                  ./Debug/src_main.o
+__aeabi_i2f                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_echo.o
+                                                  ./Debug/src_serialCommunication.o
+__aeabi_l2d                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_l2f                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_ui2d                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ui2f                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  ./Debug/src_filter.o
+__aeabi_ul2d                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2f                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__cmpdf2                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__cmpsf2                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__divdf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+__divsf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+__eqdf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__eqsf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__errno                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+__extendsfdf2                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__fdlib_version                                   c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+__fixdfsi                                         c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+__fixunssfsi                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+__floatdidf                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatdisf                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatsidf                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatsisf                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatundidf                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatundisf                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatunsidf                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatunsisf                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__fpclassifyd                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fpclassify.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+__gedf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__gesf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__gtdf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__gtsf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__ieee754_pow                                     c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+__ieee754_rem_pio2                                c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+__ieee754_sqrt                                    c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_sqrt.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+__kernel_cos                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_cos.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+__kernel_rem_pio2                                 c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+__kernel_sin                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_sin.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+__kernel_tan                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+__ledf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__lesf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__ltdf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__ltsf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__muldf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+__mulsf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+__nedf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__nesf2                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+__subdf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__subsf3                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+__truncdfsf2                                      c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+_ebss                                             ./Debug/resources_startup_stm32f40xx.o
+_edata                                            ./Debug/resources_startup_stm32f40xx.o
+_estack                                           ./Debug/resources_startup_stm32f40xx.o
+_global_impure_ptr                                c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+_impure_ptr                                       c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+_sbss                                             ./Debug/resources_startup_stm32f40xx.o
+_sdata                                            ./Debug/resources_startup_stm32f40xx.o
+_sidata                                           ./Debug/resources_startup_stm32f40xx.o
+codec_ctrl_init                                   ./Debug/src_externalDAC.o
+copysign                                          c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_copysign.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+cos                                               c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_cos.o)
+                                                  ./Debug/src_filter.o
+counter                                           ./Debug/src_serialCommunication.o
+echoEffect                                        ./Debug/src_echo.o
+                                                  ./Debug/src_main.o
+enable_ADC1                                       ./Debug/src_analogToDigital.o
+                                                  ./Debug/src_main.o
+enable_DAC                                        ./Debug/src_digitalToAnalog.o
+                                                  ./Debug/src_main.o
+enable_I2C                                        ./Debug/src_controlBus.o
+enable_I2CPins                                    ./Debug/src_controlBus.o
+enable_I2S                                        ./Debug/src_soundBus.o
+enable_I2Spins                                    ./Debug/src_soundBus.o
+enable_Interrupts                                 ./Debug/src_interruptController.o
+                                                  ./Debug/src_main.o
+enable_TIM2                                       ./Debug/src_timer.o
+                                                  ./Debug/src_main.o
+enable_USART6                                     ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_main.o
+enable_externalDAC                                ./Debug/src_externalDAC.o
+equalize                                          ./Debug/src_filter.o
+                                                  ./Debug/src_main.o
+fabs                                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_fabs.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_tan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+finite                                            c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_finite.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+floor                                             c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+g_pfnVectors                                      ./Debug/resources_startup_stm32f40xx.o
+getBase                                           ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+getBaseUpperLimit                                 ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+getEchoDecay                                      ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_main.o
+getEchoDelay                                      ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_main.o
+getMiddle                                         ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+getMiddleLowerLimit                               ./Debug/src_GUIInterface.o
+getMiddleUpperLimit                               ./Debug/src_GUIInterface.o
+getTreble                                         ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+getTrebleLowerLimit                               ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+initCommon_ADC                                    ./Debug/src_ADC.o
+                                                  ./Debug/src_analogToDigital.o
+initPeriphClocks                                  ./Debug/src_main.o
+initSystem                                        ./Debug/src_main.o
+init_ADC                                          ./Debug/src_ADC.o
+                                                  ./Debug/src_analogToDigital.o
+init_DAC                                          ./Debug/src_DAC.o
+                                                  ./Debug/src_digitalToAnalog.o
+init_GPIO                                         ./Debug/src_GPIO.o
+                                                  ./Debug/src_analogToDigital.o
+init_IRQ_Channel                                  ./Debug/src_NVIC.o
+                                                  ./Debug/src_interruptController.o
+init_RESETPin                                     ./Debug/src_externalDAC.o
+init_SCI                                          ./Debug/src_USART.o
+                                                  ./Debug/src_serialCommunication.o
+init_TIM_BDTR                                     ./Debug/src_TIM.o
+init_TIM_IC                                       ./Debug/src_TIM.o
+init_TIM_OC                                       ./Debug/src_TIM.o
+init_TIM_TimeBase                                 ./Debug/src_TIM.o
+                                                  ./Debug/src_timer.o
+isEchoEnabled                                     ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_main.o
+isInputBased                                      ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_main.o
+isMuted                                           ./Debug/src_GUIInterface.o
+                                                  ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_main.o
+main                                              ./Debug/src_main.o
+                                                  ./Debug/resources_startup_stm32f40xx.o
+matherr                                           c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+nan                                               c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+pow                                               c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+                                                  ./Debug/src_filter.o
+prototypeFun                                      ./Debug/src_serialCommunication.o
+readFromPort                                      ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_main.o
+readGUIValue                                      ./Debug/src_serialCommunication.o
+read_SCI                                          ./Debug/src_USART.o
+                                                  ./Debug/src_serialCommunication.o
+rint                                              c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_rint.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_pow.o)
+scalbn                                            c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_scalbn.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-k_rem_pio2.o)
+                                                  c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_pow.o)
+send_codec_ctrl                                   ./Debug/src_controlBus.o
+                                                  ./Debug/src_externalDAC.o
+setEqualizer                                      ./Debug/src_filter.o
+                                                  ./Debug/src_serialCommunication.o
+                                                  ./Debug/src_main.o
+tan                                               c:/temp/program/arm/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_tan.o)
+                                                  ./Debug/src_filter.o
+writeToPort                                       ./Debug/src_serialCommunication.o
+write_SCI                                         ./Debug/src_USART.o
+                                                  ./Debug/src_serialCommunication.o
